@@ -1,0 +1,12 @@
+interface:
+  display_name: Forge RPG Design
+  short_description: Soul-first tabletop design and revision
+  default_prompt: Use $forge-rpg-design to develop or revise this class, veil, archetype,
+    or subsystem by eliminating weak directions first.
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
