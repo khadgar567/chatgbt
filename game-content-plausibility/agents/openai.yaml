@@ -1,0 +1,12 @@
+interface:
+  display_name: Game Content Plausibility
+  short_description: Audit whether proposed game content is plausible
+  default_prompt: Evaluate this proposed game feature using current evidence, canon,
+    production constraints, alternatives, and calibrated confidence.
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
