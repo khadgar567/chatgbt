@@ -1,0 +1,12 @@
+interface:
+  display_name: Fiscal Watch
+  short_description: Verify live fiscal and market regime signals
+  default_prompt: Check current fiscal and market evidence against the supplied framework,
+    preserving timestamps, persistence rules, source hierarchy, and uncertainty.
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
