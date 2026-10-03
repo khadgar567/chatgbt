@@ -1,0 +1,1596 @@
+[
+  {
+    "source": "harlequin",
+    "table": 1,
+    "headers": [
+      "Level",
+      "Hit Dice",
+      "Special",
+      "Str/Dex Boost",
+      "Talents"
+    ],
+    "rows": [
+      [
+        "1",
+        "1",
+        "Brand bounty, spiritual development, alertness",
+        "—",
+        "2"
+      ],
+      [
+        "2",
+        "1",
+        "Brand talent",
+        "—",
+        "3"
+      ],
+      [
+        "3",
+        "2",
+        "Profane grace",
+        "+0",
+        "3"
+      ],
+      [
+        "4",
+        "3",
+        "Brand talent",
+        "+0",
+        "4"
+      ],
+      [
+        "5",
+        "3",
+        "—",
+        "+2",
+        "4"
+      ],
+      [
+        "6",
+        "4",
+        "Brand talent",
+        "+2",
+        "5"
+      ],
+      [
+        "7",
+        "5",
+        "—",
+        "+2",
+        "5"
+      ],
+      [
+        "8",
+        "6",
+        "Brand talent",
+        "+2",
+        "6"
+      ],
+      [
+        "9",
+        "6",
+        "—",
+        "+4",
+        "6"
+      ],
+      [
+        "10",
+        "7",
+        "Brand talent",
+        "+4",
+        "7"
+      ],
+      [
+        "11",
+        "8",
+        "—",
+        "+4",
+        "7"
+      ],
+      [
+        "12",
+        "9",
+        "Brand talent",
+        "+4",
+        "8"
+      ],
+      [
+        "13",
+        "9",
+        "—",
+        "+6",
+        "8"
+      ],
+      [
+        "14",
+        "10",
+        "Brand talent",
+        "+6",
+        "9"
+      ],
+      [
+        "15",
+        "11",
+        "—",
+        "+6",
+        "9"
+      ],
+      [
+        "16",
+        "12",
+        "Brand talent",
+        "+6",
+        "10"
+      ],
+      [
+        "17",
+        "12",
+        "—",
+        "+8",
+        "10"
+      ],
+      [
+        "18",
+        "13",
+        "Brand talent",
+        "+8",
+        "11"
+      ],
+      [
+        "19",
+        "14",
+        "—",
+        "+8",
+        "11"
+      ],
+      [
+        "20",
+        "15",
+        "—",
+        "+8",
+        "12"
+      ]
+    ],
+    "disposition": "Exact cells preserved in source packet; output table verified where included."
+  },
+  {
+    "source": "Jaguar sun",
+    "table": 1,
+    "headers": [
+      "Level",
+      "Hit Dice",
+      "Special",
+      "Str/Dex Boost",
+      "known",
+      "Readied",
+      "stances",
+      "Max manuver"
+    ],
+    "rows": [
+      [
+        "1",
+        "1",
+        "Brand bounty, spiritual development, alertness",
+        "—",
+        "3",
+        "3",
+        "1",
+        "1"
+      ],
+      [
+        "2",
+        "1",
+        "Brand talent",
+        "—",
+        "4",
+        "3",
+        "1",
+        "1"
+      ],
+      [
+        "3",
+        "2",
+        "Profane grace",
+        "+0",
+        "5",
+        "3",
+        "1",
+        "1"
+      ],
+      [
+        "4",
+        "3",
+        "Brand talent",
+        "+0",
+        "6",
+        "4",
+        "2",
+        "2"
+      ],
+      [
+        "5",
+        "3",
+        "—",
+        "+2",
+        "6",
+        "4",
+        "2",
+        "2"
+      ],
+      [
+        "6",
+        "4",
+        "Brand talent",
+        "+2",
+        "6",
+        "4",
+        "2",
+        "2"
+      ],
+      [
+        "7",
+        "5",
+        "—",
+        "+2",
+        "6",
+        "4",
+        "3",
+        "3"
+      ],
+      [
+        "8",
+        "6",
+        "Brand talent",
+        "+2",
+        "7",
+        "4",
+        "3",
+        "3"
+      ],
+      [
+        "9",
+        "6",
+        "—",
+        "+4",
+        "7",
+        "4",
+        "3",
+        "3"
+      ],
+      [
+        "10",
+        "7",
+        "Brand talent",
+        "+4",
+        "8",
+        "4",
+        "3",
+        "4"
+      ],
+      [
+        "11",
+        "8",
+        "—",
+        "+4",
+        "8",
+        "5",
+        "3",
+        "4"
+      ],
+      [
+        "12",
+        "9",
+        "Brand talent",
+        "+4",
+        "9",
+        "5",
+        "4",
+        "4"
+      ],
+      [
+        "13",
+        "9",
+        "—",
+        "+6",
+        "9",
+        "5",
+        "4",
+        "5"
+      ],
+      [
+        "14",
+        "10",
+        "Brand talent",
+        "+6",
+        "10",
+        "5",
+        "5",
+        "5"
+      ],
+      [
+        "15",
+        "11",
+        "—",
+        "+6",
+        "11",
+        "5",
+        "5",
+        "6"
+      ],
+      [
+        "16",
+        "12",
+        "Brand talent",
+        "+6",
+        "11",
+        "6",
+        "5",
+        "6"
+      ],
+      [
+        "17",
+        "12",
+        "—",
+        "+8",
+        "12",
+        "6",
+        "5",
+        "6"
+      ],
+      [
+        "18",
+        "13",
+        "Brand talent",
+        "+8",
+        "13",
+        "6",
+        "5",
+        "6"
+      ],
+      [
+        "19",
+        "14",
+        "—",
+        "+8",
+        "14",
+        "6",
+        "5",
+        "6"
+      ],
+      [
+        "20",
+        "15",
+        "—",
+        "+8",
+        "15",
+        "6",
+        "5",
+        "6"
+      ]
+    ],
+    "disposition": "Exact cells preserved in source packet; output table verified where included."
+  },
+  {
+    "source": "Genie",
+    "table": 1,
+    "headers": [
+      "Appearance",
+      "Always humanoid; specifics defined by player and GM at creation"
+    ],
+    "rows": [
+      [
+        "Stat Block",
+        "Independent creature — own stats, not derived from the Monarch"
+      ],
+      [
+        "Saving Throws",
+        "Uses the Sand Monarch's save bonuses"
+      ],
+      [
+        "Hit Dice",
+        "Scales with level (see progression table)"
+      ],
+      [
+        "Combat Initiative",
+        "Acts on the Monarch's turn; no separate initiative"
+      ],
+      [
+        "Languages",
+        "Speaks all languages the Monarch knows"
+      ],
+      [
+        "Communication",
+        "Full speech — social, tactical, and personal"
+      ],
+      [
+        "Manifestation",
+        "Always present by default; retreats to vessel as a swift action"
+      ],
+      [
+        "Vessel",
+        "A ring, lamp, talisman, or similar object chosen at 1st level"
+      ],
+      [
+        "Elemental Affinity",
+        "Chosen at 3rd level (fire, cold, electricity, or acid)"
+      ]
+    ],
+    "disposition": "Exact cells preserved in source packet; output table verified where included."
+  },
+  {
+    "source": "Genie",
+    "table": 2,
+    "headers": [
+      "Level",
+      "Hit Dice",
+      "Special",
+      "Str/Dex Boost",
+      "Talents",
+      "Elements"
+    ],
+    "rows": [
+      [
+        "1st",
+        "1",
+        "Genie's Bounty, Spiritual Development, Alertness",
+        "—",
+        "2",
+        "—"
+      ],
+      [
+        "2nd",
+        "1",
+        "Genie Talent",
+        "—",
+        "3",
+        "1"
+      ],
+      [
+        "3rd",
+        "2",
+        "Cultivated Power",
+        "+0",
+        "3",
+        "1"
+      ],
+      [
+        "4th",
+        "3",
+        "Genie Talent",
+        "+0",
+        "4",
+        "1"
+      ],
+      [
+        "5th",
+        "3",
+        "—",
+        "+2",
+        "4",
+        "2"
+      ],
+      [
+        "6th",
+        "4",
+        "Genie Talent",
+        "+2",
+        "5",
+        "2"
+      ],
+      [
+        "7th",
+        "5",
+        "—",
+        "+2",
+        "5",
+        "2"
+      ],
+      [
+        "8th",
+        "6",
+        "Genie Talent",
+        "+2",
+        "6",
+        "2"
+      ],
+      [
+        "9th",
+        "6",
+        "—",
+        "+4",
+        "6",
+        "3"
+      ],
+      [
+        "10th",
+        "7",
+        "Genie Talent",
+        "+4",
+        "7",
+        "3"
+      ],
+      [
+        "11th",
+        "8",
+        "—",
+        "+4",
+        "7",
+        "3"
+      ],
+      [
+        "12th",
+        "9",
+        "Genie Talent",
+        "+4",
+        "8",
+        "4"
+      ],
+      [
+        "13th",
+        "9",
+        "—",
+        "+6",
+        "8",
+        "4"
+      ],
+      [
+        "14th",
+        "10",
+        "Genie Talent",
+        "+6",
+        "9",
+        "4"
+      ],
+      [
+        "15th",
+        "11",
+        "—",
+        "+6",
+        "9",
+        "5"
+      ],
+      [
+        "16th",
+        "12",
+        "Genie Talent",
+        "+6",
+        "10",
+        "5"
+      ],
+      [
+        "17th",
+        "12",
+        "—",
+        "+8",
+        "10",
+        "5"
+      ],
+      [
+        "18th",
+        "13",
+        "Genie Talent",
+        "+8",
+        "11",
+        "6"
+      ],
+      [
+        "19th",
+        "14",
+        "—",
+        "+8",
+        "11",
+        "6"
+      ],
+      [
+        "20th",
+        "15",
+        "Genie Ascension",
+        "+8",
+        "12",
+        "6"
+      ]
+    ],
+    "disposition": "Exact cells preserved in source packet; output table verified where included."
+  },
+  {
+    "source": "Genie",
+    "table": 3,
+    "headers": [
+      "Master Level",
+      "Elements",
+      "Available Elemental Effects"
+    ],
+    "rows": [
+      [
+        "1st–2nd",
+        "—",
+        "None yet — elemental affinity not yet manifested"
+      ],
+      [
+        "3rd–4th",
+        "1",
+        "Choose elemental affinity (fire, cold, electricity, or acid). Cultivated Power activates."
+      ],
+      [
+        "5th–8th",
+        "2",
+        "May spend Element slots on one additional elemental effect per encounter"
+      ],
+      [
+        "9th–12th",
+        "3",
+        "Elemental damage from Cultivated Power increases to +2d6"
+      ],
+      [
+        "13th–16th",
+        "4",
+        "May maintain two elemental effects simultaneously"
+      ],
+      [
+        "17th–20th",
+        "5–6",
+        "Elemental damage from Cultivated Power increases to +4d6. Full elemental suite available."
+      ]
+    ],
+    "disposition": "Exact cells preserved in source packet; output table verified where included."
+  },
+  {
+    "source": "Unison device",
+    "table": 1,
+    "headers": [
+      "level",
+      "Hit dice",
+      "special",
+      "Str/ dex boost",
+      "Talents"
+    ],
+    "rows": [
+      [
+        "1",
+        "1",
+        "Unison boost, ether developmemt, alertness",
+        "—",
+        "2"
+      ],
+      [
+        "2",
+        "1",
+        "Unison talent",
+        "—",
+        "3"
+      ],
+      [
+        "3",
+        "2",
+        "armor",
+        "+0",
+        "3"
+      ],
+      [
+        "4",
+        "3",
+        "Unison talent",
+        "+0",
+        "4"
+      ],
+      [
+        "5",
+        "3",
+        "—",
+        "+2",
+        "4"
+      ],
+      [
+        "6",
+        "4",
+        "Unison talent",
+        "+2",
+        "5"
+      ],
+      [
+        "7",
+        "5",
+        "—",
+        "+2",
+        "5"
+      ],
+      [
+        "8",
+        "6",
+        "Unison talent",
+        "+2",
+        "6"
+      ],
+      [
+        "9",
+        "6",
+        "—",
+        "+4",
+        "6"
+      ],
+      [
+        "10",
+        "7",
+        "Unison talent",
+        "+4",
+        "7"
+      ],
+      [
+        "11",
+        "8",
+        "—",
+        "+4",
+        "7"
+      ],
+      [
+        "12",
+        "9",
+        "Unison talent",
+        "+4",
+        "8"
+      ],
+      [
+        "13",
+        "9",
+        "—",
+        "+6",
+        "8"
+      ],
+      [
+        "14",
+        "10",
+        "Unison talent",
+        "+6",
+        "9"
+      ],
+      [
+        "15",
+        "11",
+        "—",
+        "+6",
+        "9"
+      ],
+      [
+        "16",
+        "12",
+        "Unison talent",
+        "+6",
+        "10"
+      ],
+      [
+        "17",
+        "12",
+        "—",
+        "+8",
+        "10"
+      ],
+      [
+        "18",
+        "13",
+        "Unison talent",
+        "+8",
+        "11"
+      ],
+      [
+        "19",
+        "14",
+        "—",
+        "+8",
+        "11"
+      ],
+      [
+        "20",
+        "15",
+        "—",
+        "+8",
+        "12"
+      ]
+    ],
+    "disposition": "Exact cells preserved in source packet; output table verified where included."
+  },
+  {
+    "source": "Asura",
+    "table": 1,
+    "headers": [
+      "Level",
+      "Hit Dice",
+      "Special",
+      "Str/Dex Boost",
+      "known",
+      "Readied",
+      "stances",
+      "Max manuver"
+    ],
+    "rows": [
+      [
+        "1",
+        "1",
+        "Brand bounty, spiritual development, alertness",
+        "—",
+        "3",
+        "3",
+        "1",
+        "1"
+      ],
+      [
+        "2",
+        "1",
+        "Brand talent",
+        "—",
+        "4",
+        "3",
+        "1",
+        "1"
+      ],
+      [
+        "3",
+        "2",
+        "Profane grace",
+        "+0",
+        "5",
+        "3",
+        "1",
+        "1"
+      ],
+      [
+        "4",
+        "3",
+        "Brand talent",
+        "+0",
+        "6",
+        "4",
+        "2",
+        "2"
+      ],
+      [
+        "5",
+        "3",
+        "—",
+        "+2",
+        "6",
+        "4",
+        "2",
+        "2"
+      ],
+      [
+        "6",
+        "4",
+        "Brand talent",
+        "+2",
+        "6",
+        "4",
+        "2",
+        "2"
+      ],
+      [
+        "7",
+        "5",
+        "—",
+        "+2",
+        "6",
+        "4",
+        "3",
+        "3"
+      ],
+      [
+        "8",
+        "6",
+        "Brand talent",
+        "+2",
+        "7",
+        "4",
+        "3",
+        "3"
+      ],
+      [
+        "9",
+        "6",
+        "—",
+        "+4",
+        "7",
+        "4",
+        "3",
+        "3"
+      ],
+      [
+        "10",
+        "7",
+        "Brand talent",
+        "+4",
+        "8",
+        "4",
+        "3",
+        "4"
+      ],
+      [
+        "11",
+        "8",
+        "—",
+        "+4",
+        "8",
+        "5",
+        "3",
+        "4"
+      ],
+      [
+        "12",
+        "9",
+        "Brand talent",
+        "+4",
+        "9",
+        "5",
+        "4",
+        "4"
+      ],
+      [
+        "13",
+        "9",
+        "—",
+        "+6",
+        "9",
+        "5",
+        "4",
+        "5"
+      ],
+      [
+        "14",
+        "10",
+        "Brand talent",
+        "+6",
+        "10",
+        "5",
+        "5",
+        "5"
+      ],
+      [
+        "15",
+        "11",
+        "—",
+        "+6",
+        "11",
+        "5",
+        "5",
+        "6"
+      ],
+      [
+        "16",
+        "12",
+        "Brand talent",
+        "+6",
+        "11",
+        "6",
+        "5",
+        "6"
+      ],
+      [
+        "17",
+        "12",
+        "—",
+        "+8",
+        "12",
+        "6",
+        "5",
+        "6"
+      ],
+      [
+        "18",
+        "13",
+        "Brand talent",
+        "+8",
+        "13",
+        "6",
+        "5",
+        "6"
+      ],
+      [
+        "19",
+        "14",
+        "—",
+        "+8",
+        "14",
+        "6",
+        "5",
+        "6"
+      ],
+      [
+        "20",
+        "15",
+        "—",
+        "+8",
+        "15",
+        "6",
+        "5",
+        "6"
+      ]
+    ],
+    "disposition": "Exact cells preserved in source packet; output table verified where included."
+  },
+  {
+    "source": "Jiang shi",
+    "table": 1,
+    "headers": [
+      "Level",
+      "Hit Dice",
+      "Special",
+      "Str/Dex Boost",
+      "known",
+      "Readied",
+      "stances",
+      "Max manuver"
+    ],
+    "rows": [
+      [
+        "1",
+        "1",
+        "Brand bounty, spiritual development, alertness",
+        "—",
+        "3",
+        "3",
+        "1",
+        "1"
+      ],
+      [
+        "2",
+        "1",
+        "Brand talent",
+        "—",
+        "4",
+        "3",
+        "1",
+        "1"
+      ],
+      [
+        "3",
+        "2",
+        "Profane grace",
+        "+0",
+        "5",
+        "3",
+        "1",
+        "1"
+      ],
+      [
+        "4",
+        "3",
+        "Brand talent",
+        "+0",
+        "6",
+        "4",
+        "2",
+        "2"
+      ],
+      [
+        "5",
+        "3",
+        "—",
+        "+2",
+        "6",
+        "4",
+        "2",
+        "2"
+      ],
+      [
+        "6",
+        "4",
+        "Brand talent",
+        "+2",
+        "6",
+        "4",
+        "2",
+        "2"
+      ],
+      [
+        "7",
+        "5",
+        "—",
+        "+2",
+        "6",
+        "4",
+        "3",
+        "3"
+      ],
+      [
+        "8",
+        "6",
+        "Brand talent",
+        "+2",
+        "7",
+        "4",
+        "3",
+        "3"
+      ],
+      [
+        "9",
+        "6",
+        "—",
+        "+4",
+        "7",
+        "4",
+        "3",
+        "3"
+      ],
+      [
+        "10",
+        "7",
+        "Brand talent",
+        "+4",
+        "8",
+        "4",
+        "3",
+        "4"
+      ],
+      [
+        "11",
+        "8",
+        "—",
+        "+4",
+        "8",
+        "5",
+        "3",
+        "4"
+      ],
+      [
+        "12",
+        "9",
+        "Brand talent",
+        "+4",
+        "9",
+        "5",
+        "4",
+        "4"
+      ],
+      [
+        "13",
+        "9",
+        "—",
+        "+6",
+        "9",
+        "5",
+        "4",
+        "5"
+      ],
+      [
+        "14",
+        "10",
+        "Brand talent",
+        "+6",
+        "10",
+        "5",
+        "5",
+        "5"
+      ],
+      [
+        "15",
+        "11",
+        "—",
+        "+6",
+        "11",
+        "5",
+        "5",
+        "6"
+      ],
+      [
+        "16",
+        "12",
+        "Brand talent",
+        "+6",
+        "11",
+        "6",
+        "5",
+        "6"
+      ],
+      [
+        "17",
+        "12",
+        "—",
+        "+8",
+        "12",
+        "6",
+        "5",
+        "6"
+      ],
+      [
+        "18",
+        "13",
+        "Brand talent",
+        "+8",
+        "13",
+        "6",
+        "5",
+        "6"
+      ],
+      [
+        "19",
+        "14",
+        "—",
+        "+8",
+        "14",
+        "6",
+        "5",
+        "6"
+      ],
+      [
+        "20",
+        "15",
+        "—",
+        "+8",
+        "15",
+        "6",
+        "5",
+        "6"
+      ]
+    ],
+    "disposition": "Exact cells preserved in source packet; output table verified where included."
+  },
+  {
+    "source": "rakshasa",
+    "table": 1,
+    "headers": [
+      "Level",
+      "Hit Dice",
+      "Special",
+      "Str/Dex Boost",
+      "known",
+      "Readied",
+      "stances",
+      "Max manuver"
+    ],
+    "rows": [
+      [
+        "1",
+        "1",
+        "Brand bounty, spiritual development, alertness",
+        "—",
+        "3",
+        "3",
+        "1",
+        "1"
+      ],
+      [
+        "2",
+        "1",
+        "Brand talent",
+        "—",
+        "4",
+        "3",
+        "1",
+        "1"
+      ],
+      [
+        "3",
+        "2",
+        "Profane grace",
+        "+0",
+        "5",
+        "3",
+        "1",
+        "1"
+      ],
+      [
+        "4",
+        "3",
+        "Brand talent",
+        "+0",
+        "6",
+        "4",
+        "2",
+        "2"
+      ],
+      [
+        "5",
+        "3",
+        "—",
+        "+2",
+        "6",
+        "4",
+        "2",
+        "2"
+      ],
+      [
+        "6",
+        "4",
+        "Brand talent",
+        "+2",
+        "6",
+        "4",
+        "2",
+        "2"
+      ],
+      [
+        "7",
+        "5",
+        "—",
+        "+2",
+        "6",
+        "4",
+        "3",
+        "3"
+      ],
+      [
+        "8",
+        "6",
+        "Brand talent",
+        "+2",
+        "7",
+        "4",
+        "3",
+        "3"
+      ],
+      [
+        "9",
+        "6",
+        "—",
+        "+4",
+        "7",
+        "4",
+        "3",
+        "3"
+      ],
+      [
+        "10",
+        "7",
+        "Brand talent",
+        "+4",
+        "8",
+        "4",
+        "3",
+        "4"
+      ],
+      [
+        "11",
+        "8",
+        "—",
+        "+4",
+        "8",
+        "5",
+        "3",
+        "4"
+      ],
+      [
+        "12",
+        "9",
+        "Brand talent",
+        "+4",
+        "9",
+        "5",
+        "4",
+        "4"
+      ],
+      [
+        "13",
+        "9",
+        "—",
+        "+6",
+        "9",
+        "5",
+        "4",
+        "5"
+      ],
+      [
+        "14",
+        "10",
+        "Brand talent",
+        "+6",
+        "10",
+        "5",
+        "5",
+        "5"
+      ],
+      [
+        "15",
+        "11",
+        "—",
+        "+6",
+        "11",
+        "5",
+        "5",
+        "6"
+      ],
+      [
+        "16",
+        "12",
+        "Brand talent",
+        "+6",
+        "11",
+        "6",
+        "5",
+        "6"
+      ],
+      [
+        "17",
+        "12",
+        "—",
+        "+8",
+        "12",
+        "6",
+        "5",
+        "6"
+      ],
+      [
+        "18",
+        "13",
+        "Brand talent",
+        "+8",
+        "13",
+        "6",
+        "5",
+        "6"
+      ],
+      [
+        "19",
+        "14",
+        "—",
+        "+8",
+        "14",
+        "6",
+        "5",
+        "6"
+      ],
+      [
+        "20",
+        "15",
+        "—",
+        "+8",
+        "15",
+        "6",
+        "5",
+        "6"
+      ]
+    ],
+    "disposition": "Exact cells preserved in source packet; output table verified where included."
+  },
+  {
+    "source": "Angeloid",
+    "table": 1,
+    "headers": [
+      "Level",
+      "Hit Dice",
+      "Special",
+      "Str/Dex Boost",
+      "Talents"
+    ],
+    "rows": [
+      [
+        "1",
+        "1",
+        "Brand bounty, spiritual development, alertness",
+        "—",
+        "2"
+      ],
+      [
+        "2",
+        "1",
+        "Brand talent",
+        "—",
+        "3"
+      ],
+      [
+        "3",
+        "2",
+        "Profane grace",
+        "+0",
+        "3"
+      ],
+      [
+        "4",
+        "3",
+        "Brand talent",
+        "+0",
+        "4"
+      ],
+      [
+        "5",
+        "3",
+        "—",
+        "+2",
+        "4"
+      ],
+      [
+        "6",
+        "4",
+        "Brand talent",
+        "+2",
+        "5"
+      ],
+      [
+        "7",
+        "5",
+        "—",
+        "+2",
+        "5"
+      ],
+      [
+        "8",
+        "6",
+        "Brand talent",
+        "+2",
+        "6"
+      ],
+      [
+        "9",
+        "6",
+        "—",
+        "+4",
+        "6"
+      ],
+      [
+        "10",
+        "7",
+        "Brand talent",
+        "+4",
+        "7"
+      ],
+      [
+        "11",
+        "8",
+        "—",
+        "+4",
+        "7"
+      ],
+      [
+        "12",
+        "9",
+        "Brand talent",
+        "+4",
+        "8"
+      ],
+      [
+        "13",
+        "9",
+        "—",
+        "+6",
+        "8"
+      ],
+      [
+        "14",
+        "10",
+        "Brand talent",
+        "+6",
+        "9"
+      ],
+      [
+        "15",
+        "11",
+        "—",
+        "+6",
+        "9"
+      ],
+      [
+        "16",
+        "12",
+        "Brand talent",
+        "+6",
+        "10"
+      ],
+      [
+        "17",
+        "12",
+        "—",
+        "+8",
+        "10"
+      ],
+      [
+        "18",
+        "13",
+        "Brand talent",
+        "+8",
+        "11"
+      ],
+      [
+        "19",
+        "14",
+        "—",
+        "+8",
+        "11"
+      ],
+      [
+        "20",
+        "15",
+        "—",
+        "+8",
+        ""
+      ]
+    ],
+    "disposition": "Exact cells preserved in source packet; output table verified where included."
+  }
+]

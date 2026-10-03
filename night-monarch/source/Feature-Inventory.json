@@ -1,0 +1,1226 @@
+[
+  {
+    "area": "Infernal Arts",
+    "name": "Crimson Elixir",
+    "disposition": "restored",
+    "reason": "Author confirmed Charisma-modifier daily uses, cure light wounds or vampire template, no blood cost. Existing standard actions and 1-hour storage retained; healing CL and template source/eligibility unresolved."
+  },
+  {
+    "area": "Jiangshi",
+    "name": "Fast Magi-Change (Su)",
+    "disposition": "restored from source",
+    "reason": "Source wording retained; summary-level interfaces are not expanded speculatively."
+  },
+  {
+    "area": "Jiangshi",
+    "name": "Lightning Magi-Change (Su)",
+    "disposition": "restored from source",
+    "reason": "Source wording retained; summary-level interfaces are not expanded speculatively."
+  },
+  {
+    "area": "Jiangshi",
+    "name": "Sisterhood of the Master (Ex)",
+    "disposition": "restored from source",
+    "reason": "Source wording retained; summary-level interfaces are not expanded speculatively."
+  },
+  {
+    "area": "Jiangshi",
+    "name": "Companion of the Lonely (Ex)",
+    "disposition": "restored from source",
+    "reason": "Source wording retained; summary-level interfaces are not expanded speculatively."
+  },
+  {
+    "area": "Jiangshi",
+    "name": "Eyecandy (Ex)",
+    "disposition": "restored from source",
+    "reason": "Source wording retained; summary-level interfaces are not expanded speculatively."
+  },
+  {
+    "area": "Jiangshi",
+    "name": "Initiate Magic (Sp)",
+    "disposition": "restored from source",
+    "reason": "Source wording retained; summary-level interfaces are not expanded speculatively."
+  },
+  {
+    "area": "Jiangshi",
+    "name": "Master’s Right Hand",
+    "disposition": "retained",
+    "reason": "Newer master supplies the definition or authorized shared reference; older abbreviations and donor differences remain in the preserved packet."
+  },
+  {
+    "area": "Jiangshi",
+    "name": "Magi-Change Weapon Form",
+    "disposition": "retained",
+    "reason": "Newer master supplies the definition or authorized shared reference; older abbreviations and donor differences remain in the preserved packet."
+  },
+  {
+    "area": "Jiangshi",
+    "name": "Magi-Change Armor Form",
+    "disposition": "retained",
+    "reason": "Newer master supplies the definition or authorized shared reference; older abbreviations and donor differences remain in the preserved packet."
+  },
+  {
+    "area": "Jiangshi",
+    "name": "Slotted Magi-Change",
+    "disposition": "retained",
+    "reason": "Newer master supplies the definition or authorized shared reference; older abbreviations and donor differences remain in the preserved packet."
+  },
+  {
+    "area": "Jiangshi",
+    "name": "Crest",
+    "disposition": "retained",
+    "reason": "Newer master supplies the definition or authorized shared reference; older abbreviations and donor differences remain in the preserved packet."
+  },
+  {
+    "area": "Jiangshi",
+    "name": "Cultivation",
+    "disposition": "retained",
+    "reason": "Newer master supplies the definition or authorized shared reference; older abbreviations and donor differences remain in the preserved packet."
+  },
+  {
+    "area": "Jiangshi",
+    "name": "Chi drain talons",
+    "disposition": "retained",
+    "reason": "Newer master supplies the definition or authorized shared reference; older abbreviations and donor differences remain in the preserved packet."
+  },
+  {
+    "area": "Jiangshi",
+    "name": "Energy eater",
+    "disposition": "retained",
+    "reason": "Newer master supplies the definition or authorized shared reference; older abbreviations and donor differences remain in the preserved packet."
+  },
+  {
+    "area": "Jiangshi",
+    "name": "Extended palate",
+    "disposition": "retained",
+    "reason": "Newer master supplies the definition or authorized shared reference; older abbreviations and donor differences remain in the preserved packet."
+  },
+  {
+    "area": "Jiangshi",
+    "name": "Extra mnuver",
+    "disposition": "retained",
+    "reason": "Newer master supplies the definition or authorized shared reference; older abbreviations and donor differences remain in the preserved packet."
+  },
+  {
+    "area": "Jiangshi",
+    "name": "Extra discipline",
+    "disposition": "retained",
+    "reason": "Newer master supplies the definition or authorized shared reference; older abbreviations and donor differences remain in the preserved packet."
+  },
+  {
+    "area": "Jiangshi",
+    "name": "Sleeve Claws",
+    "disposition": "retained",
+    "reason": "Newer master supplies the definition or authorized shared reference; older abbreviations and donor differences remain in the preserved packet."
+  },
+  {
+    "area": "Jiangshi",
+    "name": "Paper Charm Volley",
+    "disposition": "retained",
+    "reason": "Newer master supplies the definition or authorized shared reference; older abbreviations and donor differences remain in the preserved packet."
+  },
+  {
+    "area": "Jiangshi",
+    "name": "Twin-Sleeve Art",
+    "disposition": "retained",
+    "reason": "Newer master supplies the definition or authorized shared reference; older abbreviations and donor differences remain in the preserved packet."
+  },
+  {
+    "area": "Jiangshi",
+    "name": "Ghost Step",
+    "disposition": "retained",
+    "reason": "Newer master supplies the definition or authorized shared reference; older abbreviations and donor differences remain in the preserved packet."
+  },
+  {
+    "area": "Jiangshi",
+    "name": "Dead-Flow Technique",
+    "disposition": "retained",
+    "reason": "Newer master supplies the definition or authorized shared reference; older abbreviations and donor differences remain in the preserved packet."
+  },
+  {
+    "area": "Jiangshi",
+    "name": "Ghastly Flutter",
+    "disposition": "retained",
+    "reason": "Newer master supplies the definition or authorized shared reference; older abbreviations and donor differences remain in the preserved packet."
+  },
+  {
+    "area": "Jiangshi",
+    "name": "Spirit Siphon",
+    "disposition": "retained",
+    "reason": "Newer master supplies the definition or authorized shared reference; older abbreviations and donor differences remain in the preserved packet."
+  },
+  {
+    "area": "Jiangshi",
+    "name": "Mirror of Paper Flesh",
+    "disposition": "retained",
+    "reason": "Newer master supplies the definition or authorized shared reference; older abbreviations and donor differences remain in the preserved packet."
+  },
+  {
+    "area": "Jiangshi",
+    "name": "Ghost Bell Dance",
+    "disposition": "retained",
+    "reason": "Newer master supplies the definition or authorized shared reference; older abbreviations and donor differences remain in the preserved packet."
+  },
+  {
+    "area": "Jiangshi",
+    "name": "Talisman Paradox",
+    "disposition": "retained",
+    "reason": "Newer master supplies the definition or authorized shared reference; older abbreviations and donor differences remain in the preserved packet."
+  },
+  {
+    "area": "Jiangshi",
+    "name": "Iron Charm Barrier",
+    "disposition": "retained",
+    "reason": "Newer master supplies the definition or authorized shared reference; older abbreviations and donor differences remain in the preserved packet."
+  },
+  {
+    "area": "Jiangshi",
+    "name": "Twin Mantra",
+    "disposition": "retained",
+    "reason": "Newer master supplies the definition or authorized shared reference; older abbreviations and donor differences remain in the preserved packet."
+  },
+  {
+    "area": "Jiangshi",
+    "name": "Corpse Flow Mastery",
+    "disposition": "retained",
+    "reason": "Newer master supplies the definition or authorized shared reference; older abbreviations and donor differences remain in the preserved packet."
+  },
+  {
+    "area": "Jiangshi",
+    "name": "Empress of Seals",
+    "disposition": "retained",
+    "reason": "Newer master supplies the definition or authorized shared reference; older abbreviations and donor differences remain in the preserved packet."
+  },
+  {
+    "area": "Asura",
+    "name": "Wrathful Blow (Ex)",
+    "disposition": "retained, verified",
+    "reason": "Full current rule body compared against recovered source; no duplicate catalogue inserted."
+  },
+  {
+    "area": "Asura",
+    "name": "Furious Rend (Ex)",
+    "disposition": "retained, verified",
+    "reason": "Full current rule body compared against recovered source; no duplicate catalogue inserted."
+  },
+  {
+    "area": "Asura",
+    "name": "Relentless Advance (Ex)",
+    "disposition": "retained, verified",
+    "reason": "Full current rule body compared against recovered source; no duplicate catalogue inserted."
+  },
+  {
+    "area": "Asura",
+    "name": "Ashen Strike (Su)",
+    "disposition": "retained, verified",
+    "reason": "Full current rule body compared against recovered source; no duplicate catalogue inserted."
+  },
+  {
+    "area": "Asura",
+    "name": "Grievous Critical (Ex)",
+    "disposition": "retained, verified",
+    "reason": "Full current rule body compared against recovered source; no duplicate catalogue inserted."
+  },
+  {
+    "area": "Asura",
+    "name": "Mark of Vengeance (Su)",
+    "disposition": "retained, verified",
+    "reason": "Full current rule body compared against recovered source; no duplicate catalogue inserted."
+  },
+  {
+    "area": "Asura",
+    "name": "Blasphemous Howl (Su)",
+    "disposition": "retained, verified",
+    "reason": "Full current rule body compared against recovered source; no duplicate catalogue inserted."
+  },
+  {
+    "area": "Asura",
+    "name": "Curse of Weakness (Su)",
+    "disposition": "retained, verified",
+    "reason": "Full current rule body compared against recovered source; no duplicate catalogue inserted."
+  },
+  {
+    "area": "Asura",
+    "name": "Curse of Fate (Su)",
+    "disposition": "retained, verified",
+    "reason": "Full current rule body compared against recovered source; no duplicate catalogue inserted."
+  },
+  {
+    "area": "Asura",
+    "name": "Aura of Wrath (Su)",
+    "disposition": "retained, verified",
+    "reason": "Full current rule body compared against recovered source; no duplicate catalogue inserted."
+  },
+  {
+    "area": "Asura",
+    "name": "Deathflame (Su)",
+    "disposition": "retained, verified",
+    "reason": "Full current rule body compared against recovered source; no duplicate catalogue inserted."
+  },
+  {
+    "area": "Asura",
+    "name": "Corpse Explosion (Su)",
+    "disposition": "retained, verified",
+    "reason": "Full current rule body compared against recovered source; no duplicate catalogue inserted."
+  },
+  {
+    "area": "Asura",
+    "name": "Soul Rend (Su)",
+    "disposition": "retained, verified",
+    "reason": "Full current rule body compared against recovered source; no duplicate catalogue inserted."
+  },
+  {
+    "area": "Asura",
+    "name": "Profane Healing (Su)",
+    "disposition": "retained, verified",
+    "reason": "Full current rule body compared against recovered source; no duplicate catalogue inserted."
+  },
+  {
+    "area": "Asura",
+    "name": "Phantom Chains (Su)",
+    "disposition": "retained, verified",
+    "reason": "Full current rule body compared against recovered source; no duplicate catalogue inserted."
+  },
+  {
+    "area": "Asura",
+    "name": "Unholy Resilience (Su)",
+    "disposition": "retained, verified",
+    "reason": "Full current rule body compared against recovered source; no duplicate catalogue inserted."
+  },
+  {
+    "area": "Asura",
+    "name": "Blighted Flesh (Su)",
+    "disposition": "retained, verified",
+    "reason": "Full current rule body compared against recovered source; no duplicate catalogue inserted."
+  },
+  {
+    "area": "Asura",
+    "name": "Eyes of Judgment (Su)",
+    "disposition": "retained, verified",
+    "reason": "Full current rule body compared against recovered source; no duplicate catalogue inserted."
+  },
+  {
+    "area": "Asura",
+    "name": "Defiant Will (Ex)",
+    "disposition": "retained, verified",
+    "reason": "Full current rule body compared against recovered source; no duplicate catalogue inserted."
+  },
+  {
+    "area": "Asura",
+    "name": "Avatar of Fury (Su)",
+    "disposition": "retained, verified",
+    "reason": "Full current rule body compared against recovered source; no duplicate catalogue inserted."
+  },
+  {
+    "area": "Asura",
+    "name": "Dark Commander (Ex)",
+    "disposition": "retained, verified",
+    "reason": "Full current rule body compared against recovered source; no duplicate catalogue inserted."
+  },
+  {
+    "area": "Asura",
+    "name": "Fallen Halo (Su)",
+    "disposition": "retained, verified",
+    "reason": "Full current rule body compared against recovered source; no duplicate catalogue inserted."
+  },
+  {
+    "area": "Asura",
+    "name": "Rebuke Soul (Su)",
+    "disposition": "retained, verified",
+    "reason": "Full current rule body compared against recovered source; no duplicate catalogue inserted."
+  },
+  {
+    "area": "Asura",
+    "name": "Undying Rage (Su)",
+    "disposition": "retained, verified",
+    "reason": "Full current rule body compared against recovered source; no duplicate catalogue inserted."
+  },
+  {
+    "area": "Asura",
+    "name": "Crown of Ashes (Su)",
+    "disposition": "retained, verified",
+    "reason": "Full current rule body compared against recovered source; no duplicate catalogue inserted."
+  },
+  {
+    "area": "Jaguar Sun",
+    "name": "Blood Feast (Ex)",
+    "disposition": "retained, verified",
+    "reason": "Full current rule body compared against recovered source; no duplicate catalogue inserted."
+  },
+  {
+    "area": "Jaguar Sun",
+    "name": "Heart-Ripper (Su)",
+    "disposition": "retained, verified",
+    "reason": "Full current rule body compared against recovered source; no duplicate catalogue inserted."
+  },
+  {
+    "area": "Jaguar Sun",
+    "name": "Sacrificial Surge (Ex)",
+    "disposition": "retained, verified",
+    "reason": "Full current rule body compared against recovered source; no duplicate catalogue inserted."
+  },
+  {
+    "area": "Jaguar Sun",
+    "name": "Cycle of Blood (Su)",
+    "disposition": "retained, verified",
+    "reason": "Full current rule body compared against recovered source; no duplicate catalogue inserted."
+  },
+  {
+    "area": "Jaguar Sun",
+    "name": "Jaguar Pounce (Ex)",
+    "disposition": "retained, verified",
+    "reason": "Full current rule body compared against recovered source; no duplicate catalogue inserted."
+  },
+  {
+    "area": "Jaguar Sun",
+    "name": "Crimson Fangs (Ex)",
+    "disposition": "retained, verified",
+    "reason": "Full current rule body compared against recovered source; no duplicate catalogue inserted."
+  },
+  {
+    "area": "Jaguar Sun",
+    "name": "Predator’s Rend (Ex)",
+    "disposition": "retained, verified",
+    "reason": "Full current rule body compared against recovered source; no duplicate catalogue inserted."
+  },
+  {
+    "area": "Jaguar Sun",
+    "name": "Blood in the Water (Ex)",
+    "disposition": "retained, verified",
+    "reason": "Full current rule body compared against recovered source; no duplicate catalogue inserted."
+  },
+  {
+    "area": "Jaguar Sun",
+    "name": "Sanguine Recovery (Su)",
+    "disposition": "retained, verified",
+    "reason": "Full current rule body compared against recovered source; no duplicate catalogue inserted."
+  },
+  {
+    "area": "Jaguar Sun",
+    "name": "Jaguar Mask (Su)",
+    "disposition": "retained, verified",
+    "reason": "Full current rule body compared against recovered source; no duplicate catalogue inserted."
+  },
+  {
+    "area": "Jaguar Sun",
+    "name": "Sunflare Strike (Su)",
+    "disposition": "retained, verified",
+    "reason": "Full current rule body compared against recovered source; no duplicate catalogue inserted."
+  },
+  {
+    "area": "Jaguar Sun",
+    "name": "Solar Roar (Su)",
+    "disposition": "retained, verified",
+    "reason": "Full current rule body compared against recovered source; no duplicate catalogue inserted."
+  },
+  {
+    "area": "Jaguar Sun",
+    "name": "Radiant Predator (Su)",
+    "disposition": "retained, verified",
+    "reason": "Full current rule body compared against recovered source; no duplicate catalogue inserted."
+  },
+  {
+    "area": "Jaguar Sun",
+    "name": "Day’s Fury (Su)",
+    "disposition": "retained, verified",
+    "reason": "Full current rule body compared against recovered source; no duplicate catalogue inserted."
+  },
+  {
+    "area": "Jaguar Sun",
+    "name": "Sun’s Judgment (Su)",
+    "disposition": "retained, verified",
+    "reason": "Full current rule body compared against recovered source; no duplicate catalogue inserted."
+  },
+  {
+    "area": "Jaguar Sun",
+    "name": "Bloodfire (Su)",
+    "disposition": "retained, verified",
+    "reason": "Full current rule body compared against recovered source; no duplicate catalogue inserted."
+  },
+  {
+    "area": "Jaguar Sun",
+    "name": "Sanguine Ward (Su)",
+    "disposition": "retained, verified",
+    "reason": "Full current rule body compared against recovered source; no duplicate catalogue inserted."
+  },
+  {
+    "area": "Jaguar Sun",
+    "name": "Obsidian Teeth (Ex)",
+    "disposition": "retained, verified",
+    "reason": "Full current rule body compared against recovered source; no duplicate catalogue inserted."
+  },
+  {
+    "area": "Jaguar Sun",
+    "name": "Flesh Offering (Su)",
+    "disposition": "retained, verified",
+    "reason": "Full current rule body compared against recovered source; no duplicate catalogue inserted."
+  },
+  {
+    "area": "Jaguar Sun",
+    "name": "Jaguar Eclipse (Su)",
+    "disposition": "retained, verified",
+    "reason": "Full current rule body compared against recovered source; no duplicate catalogue inserted."
+  },
+  {
+    "area": "Jaguar Sun",
+    "name": "Totem Sun (Su)",
+    "disposition": "retained, verified",
+    "reason": "Full current rule body compared against recovered source; no duplicate catalogue inserted."
+  },
+  {
+    "area": "Jaguar Sun",
+    "name": "Blood Chant (Ex)",
+    "disposition": "retained, verified",
+    "reason": "Full current rule body compared against recovered source; no duplicate catalogue inserted."
+  },
+  {
+    "area": "Jaguar Sun",
+    "name": "Skull Throne (Su)",
+    "disposition": "retained, verified",
+    "reason": "Full current rule body compared against recovered source; no duplicate catalogue inserted."
+  },
+  {
+    "area": "Jaguar Sun",
+    "name": "Obsidian Fang Ritual (Su)",
+    "disposition": "retained, verified",
+    "reason": "Full current rule body compared against recovered source; no duplicate catalogue inserted."
+  },
+  {
+    "area": "Jaguar Sun",
+    "name": "Sun Devourer (Su)",
+    "disposition": "retained, verified",
+    "reason": "Full current rule body compared against recovered source; no duplicate catalogue inserted."
+  },
+  {
+    "area": "Rakshasa",
+    "name": "Tiger’s Claws (Ex)",
+    "disposition": "retained, verified",
+    "reason": "Full current rule body compared against recovered source; no duplicate catalogue inserted."
+  },
+  {
+    "area": "Rakshasa",
+    "name": "Predator’s Pounce (Ex)",
+    "disposition": "retained, verified",
+    "reason": "Full current rule body compared against recovered source; no duplicate catalogue inserted."
+  },
+  {
+    "area": "Rakshasa",
+    "name": "Bloodied Strike (Ex)",
+    "disposition": "retained, verified",
+    "reason": "Full current rule body compared against recovered source; no duplicate catalogue inserted."
+  },
+  {
+    "area": "Rakshasa",
+    "name": "Savage Rend (Ex)",
+    "disposition": "retained, verified",
+    "reason": "Full current rule body compared against recovered source; no duplicate catalogue inserted."
+  },
+  {
+    "area": "Rakshasa",
+    "name": "Crimson Fangs (Su)",
+    "disposition": "retained, verified",
+    "reason": "Full current rule body compared against recovered source; no duplicate catalogue inserted."
+  },
+  {
+    "area": "Rakshasa",
+    "name": "Illusory Double (Su)",
+    "disposition": "retained, verified",
+    "reason": "Full current rule body compared against recovered source; no duplicate catalogue inserted."
+  },
+  {
+    "area": "Rakshasa",
+    "name": "False Face (Su)",
+    "disposition": "retained, verified",
+    "reason": "Full current rule body compared against recovered source; no duplicate catalogue inserted."
+  },
+  {
+    "area": "Rakshasa",
+    "name": "Shifting Guise (Su)",
+    "disposition": "retained, verified",
+    "reason": "Full current rule body compared against recovered source; no duplicate catalogue inserted."
+  },
+  {
+    "area": "Rakshasa",
+    "name": "Shadow Stride (Su)",
+    "disposition": "retained, verified",
+    "reason": "Full current rule body compared against recovered source; no duplicate catalogue inserted."
+  },
+  {
+    "area": "Rakshasa",
+    "name": "Phantasmal Terror (Su)",
+    "disposition": "retained, verified",
+    "reason": "Full current rule body compared against recovered source; no duplicate catalogue inserted."
+  },
+  {
+    "area": "Rakshasa",
+    "name": "Rakshasa’s Curse (Su)",
+    "disposition": "retained, verified",
+    "reason": "Full current rule body compared against recovered source; no duplicate catalogue inserted."
+  },
+  {
+    "area": "Rakshasa",
+    "name": "Hex of Weakness (Su)",
+    "disposition": "retained, verified",
+    "reason": "Full current rule body compared against recovered source; no duplicate catalogue inserted."
+  },
+  {
+    "area": "Rakshasa",
+    "name": "Hex of Confusion (Su)",
+    "disposition": "retained, verified",
+    "reason": "Full current rule body compared against recovered source; no duplicate catalogue inserted."
+  },
+  {
+    "area": "Rakshasa",
+    "name": "Charm Predator (Su)",
+    "disposition": "retained, verified",
+    "reason": "Full current rule body compared against recovered source; no duplicate catalogue inserted."
+  },
+  {
+    "area": "Rakshasa",
+    "name": "Suggestion (Sp)",
+    "disposition": "retained, verified",
+    "reason": "Full current rule body compared against recovered source; no duplicate catalogue inserted."
+  },
+  {
+    "area": "Rakshasa",
+    "name": "Energy Fangs (Su)",
+    "disposition": "retained, verified",
+    "reason": "Full current rule body compared against recovered source; no duplicate catalogue inserted."
+  },
+  {
+    "area": "Rakshasa",
+    "name": "Fiend’s Resilience (Su)",
+    "disposition": "retained, verified",
+    "reason": "Full current rule body compared against recovered source; no duplicate catalogue inserted."
+  },
+  {
+    "area": "Rakshasa",
+    "name": "Spell Resistance (Su)",
+    "disposition": "retained, verified",
+    "reason": "Full current rule body compared against recovered source; no duplicate catalogue inserted."
+  },
+  {
+    "area": "Rakshasa",
+    "name": "Mind Shield (Su)",
+    "disposition": "retained, verified",
+    "reason": "Full current rule body compared against recovered source; no duplicate catalogue inserted."
+  },
+  {
+    "area": "Rakshasa",
+    "name": "Tiger’s Roar (Su)",
+    "disposition": "retained, verified",
+    "reason": "Full current rule body compared against recovered source; no duplicate catalogue inserted."
+  },
+  {
+    "area": "Rakshasa",
+    "name": "Master of Masks (Su)",
+    "disposition": "retained, verified",
+    "reason": "Full current rule body compared against recovered source; no duplicate catalogue inserted."
+  },
+  {
+    "area": "Rakshasa",
+    "name": "Deceptive Step (Ex)",
+    "disposition": "retained, verified",
+    "reason": "Full current rule body compared against recovered source; no duplicate catalogue inserted."
+  },
+  {
+    "area": "Rakshasa",
+    "name": "Spell-Thief’s Touch (Su)",
+    "disposition": "retained, verified",
+    "reason": "Full current rule body compared against recovered source; no duplicate catalogue inserted."
+  },
+  {
+    "area": "Rakshasa",
+    "name": "Twilight Hunter (Ex)",
+    "disposition": "retained, verified",
+    "reason": "Full current rule body compared against recovered source; no duplicate catalogue inserted."
+  },
+  {
+    "area": "Rakshasa",
+    "name": "Ninefold Guile (Su)",
+    "disposition": "retained, verified",
+    "reason": "Full current rule body compared against recovered source; no duplicate catalogue inserted."
+  },
+  {
+    "area": "Rakshasa",
+    "name": "Normal / Martial classification",
+    "disposition": "conflict recorded; later master retained",
+    "reason": "Older Normal heading conflicts with atomic maneuver table. Explicit integrated master selects Martial; no new chassis decision made."
+  },
+  {
+    "area": "Unison Device",
+    "name": "Unison Device (Su)",
+    "disposition": "recovered donor reference",
+    "reason": "Full supplied source preserved; unfinished Night Monarch adapter, no automatic class grant."
+  },
+  {
+    "area": "Unison Device",
+    "name": "Standby Mode",
+    "disposition": "recovered donor reference",
+    "reason": "Full supplied source preserved; unfinished Night Monarch adapter, no automatic class grant."
+  },
+  {
+    "area": "Unison Device",
+    "name": "Unison Mode",
+    "disposition": "recovered donor reference",
+    "reason": "Full supplied source preserved; unfinished Night Monarch adapter, no automatic class grant."
+  },
+  {
+    "area": "Unison Device",
+    "name": "Barrier System",
+    "disposition": "recovered donor reference",
+    "reason": "Full supplied source preserved; unfinished Night Monarch adapter, no automatic class grant."
+  },
+  {
+    "area": "Unison Device",
+    "name": "Barrier Strength =",
+    "disposition": "recovered donor reference",
+    "reason": "Full supplied source preserved; unfinished Night Monarch adapter, no automatic class grant."
+  },
+  {
+    "area": "Unison Device",
+    "name": "warlock level × 2 + Charisma modifier",
+    "disposition": "recovered donor reference",
+    "reason": "Full supplied source preserved; unfinished Night Monarch adapter, no automatic class grant."
+  },
+  {
+    "area": "Unison Device",
+    "name": "Unison Bounty (Su)",
+    "disposition": "recovered donor reference",
+    "reason": "Full supplied source preserved; unfinished Night Monarch adapter, no automatic class grant."
+  },
+  {
+    "area": "Unison Device",
+    "name": "Unison talents 17 done 11 to go",
+    "disposition": "recovered donor reference",
+    "reason": "Full supplied source preserved; unfinished Night Monarch adapter, no automatic class grant."
+  },
+  {
+    "area": "Unison Device",
+    "name": "Lightning Unison",
+    "disposition": "recovered donor reference",
+    "reason": "Full supplied source preserved; unfinished Night Monarch adapter, no automatic class grant."
+  },
+  {
+    "area": "Unison Device",
+    "name": "Combat Assist",
+    "disposition": "recovered donor reference",
+    "reason": "Full supplied source preserved; unfinished Night Monarch adapter, no automatic class grant."
+  },
+  {
+    "area": "Unison Device",
+    "name": "Config Expertise",
+    "disposition": "recovered donor reference",
+    "reason": "Full supplied source preserved; unfinished Night Monarch adapter, no automatic class grant."
+  },
+  {
+    "area": "Unison Device",
+    "name": "Greater Barrier",
+    "disposition": "recovered donor reference",
+    "reason": "Full supplied source preserved; unfinished Night Monarch adapter, no automatic class grant."
+  },
+  {
+    "area": "Unison Device",
+    "name": "Lingering Barrier",
+    "disposition": "recovered donor reference",
+    "reason": "Full supplied source preserved; unfinished Night Monarch adapter, no automatic class grant."
+  },
+  {
+    "area": "Unison Device",
+    "name": "Reinforce Barrier",
+    "disposition": "recovered donor reference",
+    "reason": "Full supplied source preserved; unfinished Night Monarch adapter, no automatic class grant."
+  },
+  {
+    "area": "Unison Device",
+    "name": "Unison Barrier",
+    "disposition": "recovered donor reference",
+    "reason": "Full supplied source preserved; unfinished Night Monarch adapter, no automatic class grant."
+  },
+  {
+    "area": "Unison Device",
+    "name": "Master’s Spells",
+    "disposition": "recovered donor reference",
+    "reason": "Full supplied source preserved; unfinished Night Monarch adapter, no automatic class grant."
+  },
+  {
+    "area": "Unison Device",
+    "name": "Crest of Ars Magus",
+    "disposition": "recovered donor reference",
+    "reason": "Full supplied source preserved; unfinished Night Monarch adapter, no automatic class grant."
+  },
+  {
+    "area": "Unison Device",
+    "name": "Steal Linker Core",
+    "disposition": "recovered donor reference",
+    "reason": "Full supplied source preserved; unfinished Night Monarch adapter, no automatic class grant."
+  },
+  {
+    "area": "Unison Device",
+    "name": "Linker Core Storage",
+    "disposition": "recovered donor reference",
+    "reason": "Full supplied source preserved; unfinished Night Monarch adapter, no automatic class grant."
+  },
+  {
+    "area": "Unison Device",
+    "name": "Translator",
+    "disposition": "recovered donor reference",
+    "reason": "Full supplied source preserved; unfinished Night Monarch adapter, no automatic class grant."
+  },
+  {
+    "area": "Unison Device",
+    "name": "Companion for the Lonely",
+    "disposition": "recovered donor reference",
+    "reason": "Full supplied source preserved; unfinished Night Monarch adapter, no automatic class grant."
+  },
+  {
+    "area": "Unison Device",
+    "name": "Puppet Mode",
+    "disposition": "recovered donor reference",
+    "reason": "Full supplied source preserved; unfinished Night Monarch adapter, no automatic class grant."
+  },
+  {
+    "area": "Unison Device",
+    "name": "Unison Talent",
+    "disposition": "recovered donor reference",
+    "reason": "Full supplied source preserved; unfinished Night Monarch adapter, no automatic class grant."
+  },
+  {
+    "area": "Unison Device",
+    "name": "Special:",
+    "disposition": "recovered donor reference",
+    "reason": "Full supplied source preserved; unfinished Night Monarch adapter, no automatic class grant."
+  },
+  {
+    "area": "Unison Device",
+    "name": "Wolkenritter Covenant",
+    "disposition": "recovered donor reference",
+    "reason": "Full supplied source preserved; unfinished Night Monarch adapter, no automatic class grant."
+  },
+  {
+    "area": "Unison Device",
+    "name": "Alternate Unison Target",
+    "disposition": "recovered donor reference",
+    "reason": "Full supplied source preserved; unfinished Night Monarch adapter, no automatic class grant."
+  },
+  {
+    "area": "Unison Device",
+    "name": "Tactical Scanner",
+    "disposition": "recovered donor reference",
+    "reason": "Full supplied source preserved; unfinished Night Monarch adapter, no automatic class grant."
+  },
+  {
+    "area": "Unison Device",
+    "name": "Arcane Diagnostics",
+    "disposition": "recovered donor reference",
+    "reason": "Full supplied source preserved; unfinished Night Monarch adapter, no automatic class grant."
+  },
+  {
+    "area": "Unison Device",
+    "name": "Target Prediction",
+    "disposition": "recovered donor reference",
+    "reason": "Full supplied source preserved; unfinished Night Monarch adapter, no automatic class grant."
+  },
+  {
+    "area": "Unison Device",
+    "name": "Overclock Protocol",
+    "disposition": "recovered donor reference",
+    "reason": "Full supplied source preserved; unfinished Night Monarch adapter, no automatic class grant."
+  },
+  {
+    "area": "Unison Device",
+    "name": "Guardian Protocol",
+    "disposition": "recovered donor reference",
+    "reason": "Full supplied source preserved; unfinished Night Monarch adapter, no automatic class grant."
+  },
+  {
+    "area": "Unison Device",
+    "name": "Emergency Unison",
+    "disposition": "recovered donor reference",
+    "reason": "Full supplied source preserved; unfinished Night Monarch adapter, no automatic class grant."
+  },
+  {
+    "area": "Unison Device",
+    "name": "Link Stabilization",
+    "disposition": "recovered donor reference",
+    "reason": "Full supplied source preserved; unfinished Night Monarch adapter, no automatic class grant."
+  },
+  {
+    "area": "Unison Device",
+    "name": "Device Autonomy",
+    "disposition": "recovered donor reference",
+    "reason": "Full supplied source preserved; unfinished Night Monarch adapter, no automatic class grant."
+  },
+  {
+    "area": "Unison Device",
+    "name": "Spectral Armament",
+    "disposition": "recovered donor reference",
+    "reason": "Full supplied source preserved; unfinished Night Monarch adapter, no automatic class grant."
+  },
+  {
+    "area": "Unison Device",
+    "name": "Adaptive Barrier",
+    "disposition": "recovered donor reference",
+    "reason": "Full supplied source preserved; unfinished Night Monarch adapter, no automatic class grant."
+  },
+  {
+    "area": "Unison Device",
+    "name": "Synchronization Surge",
+    "disposition": "recovered donor reference",
+    "reason": "Full supplied source preserved; unfinished Night Monarch adapter, no automatic class grant."
+  },
+  {
+    "area": "Unison Device",
+    "name": "Remote Unison",
+    "disposition": "recovered donor reference",
+    "reason": "Full supplied source preserved; unfinished Night Monarch adapter, no automatic class grant."
+  },
+  {
+    "area": "Unison Device",
+    "name": "Echo Memory",
+    "disposition": "recovered donor reference",
+    "reason": "Full supplied source preserved; unfinished Night Monarch adapter, no automatic class grant."
+  },
+  {
+    "area": "Unison Device",
+    "name": "Catalogue count",
+    "disposition": "29 recovered talent entries",
+    "reason": "Count from Lightning Unison through Echo Memory; historical 17 done / 11 to go note is not used as the count."
+  },
+  {
+    "area": "Harlequin",
+    "name": "Eyecandy",
+    "disposition": "retained later rule / shared reference",
+    "reason": "Recovered older copied Succubus prose and name-only entries do not replace the fuller revised-master rules. Packet preserves every source body."
+  },
+  {
+    "area": "Harlequin",
+    "name": "Initiate Magic",
+    "disposition": "retained later rule / shared reference",
+    "reason": "Recovered older copied Succubus prose and name-only entries do not replace the fuller revised-master rules. Packet preserves every source body."
+  },
+  {
+    "area": "Harlequin",
+    "name": "Magi-Change: Succubus Arms",
+    "disposition": "retained later rule / shared reference",
+    "reason": "Recovered older copied Succubus prose and name-only entries do not replace the fuller revised-master rules. Packet preserves every source body."
+  },
+  {
+    "area": "Harlequin",
+    "name": "Magi-Change: Armor of Lust",
+    "disposition": "retained later rule / shared reference",
+    "reason": "Recovered older copied Succubus prose and name-only entries do not replace the fuller revised-master rules. Packet preserves every source body."
+  },
+  {
+    "area": "Harlequin",
+    "name": "Fast Magi-Change",
+    "disposition": "retained later rule / shared reference",
+    "reason": "Recovered older copied Succubus prose and name-only entries do not replace the fuller revised-master rules. Packet preserves every source body."
+  },
+  {
+    "area": "Harlequin",
+    "name": "Lightning Magi-Change",
+    "disposition": "retained later rule / shared reference",
+    "reason": "Recovered older copied Succubus prose and name-only entries do not replace the fuller revised-master rules. Packet preserves every source body."
+  },
+  {
+    "area": "Harlequin",
+    "name": "Slotted Magi-Change",
+    "disposition": "retained later rule / shared reference",
+    "reason": "Recovered older copied Succubus prose and name-only entries do not replace the fuller revised-master rules. Packet preserves every source body."
+  },
+  {
+    "area": "Harlequin",
+    "name": "Sisterhood of the Master",
+    "disposition": "retained later rule / shared reference",
+    "reason": "Recovered older copied Succubus prose and name-only entries do not replace the fuller revised-master rules. Packet preserves every source body."
+  },
+  {
+    "area": "Harlequin",
+    "name": "Companion of the Lonely",
+    "disposition": "retained later rule / shared reference",
+    "reason": "Recovered older copied Succubus prose and name-only entries do not replace the fuller revised-master rules. Packet preserves every source body."
+  },
+  {
+    "area": "Harlequin",
+    "name": "Death dealer",
+    "disposition": "retained later rule / shared reference",
+    "reason": "Recovered older copied Succubus prose and name-only entries do not replace the fuller revised-master rules. Packet preserves every source body."
+  },
+  {
+    "area": "Harlequin",
+    "name": "Magic deck",
+    "disposition": "retained later rule / shared reference",
+    "reason": "Recovered older copied Succubus prose and name-only entries do not replace the fuller revised-master rules. Packet preserves every source body."
+  },
+  {
+    "area": "Harlequin",
+    "name": "Throw anything",
+    "disposition": "retained later rule / shared reference",
+    "reason": "Recovered older copied Succubus prose and name-only entries do not replace the fuller revised-master rules. Packet preserves every source body."
+  },
+  {
+    "area": "Harlequin",
+    "name": "Cultivated Power",
+    "disposition": "retained later rule / shared reference",
+    "reason": "Recovered older copied Succubus prose and name-only entries do not replace the fuller revised-master rules. Packet preserves every source body."
+  },
+  {
+    "area": "Harlequin",
+    "name": "gambler",
+    "disposition": "unresolved reserve name; prior blood rule stays cut",
+    "reason": "Packet supplies only a name; no independent non-blood rule authorized."
+  },
+  {
+    "area": "Angeloid",
+    "name": "Light Halo",
+    "disposition": "restored omitted clause",
+    "reason": "Recovered +5 feet per level beyond base range."
+  },
+  {
+    "area": "Angeloid",
+    "name": "Light Spear",
+    "disposition": "restored omitted clause",
+    "reason": "Recovered level-18 half-damage 10-foot-radius explosion."
+  },
+  {
+    "area": "Angeloid",
+    "name": "Genie Initiate Magic",
+    "disposition": "unresolved donor conflict; not granted",
+    "reason": "Older copied rule permits a 9th-level sorcerer/wizard spell; current source already has Initiate Magic. No automatic transplant."
+  },
+  {
+    "area": "Angeloid",
+    "name": "Progression level 20 Talents",
+    "disposition": "unresolved source blank",
+    "reason": "Packet cell is empty. Standard table value is not rewritten to fill it; exact source table retained in packet and audit."
+  },
+  {
+    "area": "Integrated Revision",
+    "name": "Banshee / Jiangshi heading boundaries",
+    "disposition": "corrected extraction",
+    "reason": "Re-extracted original page 34: Banshee identity restored; Hsien-Ko/Unquiet Grave text belongs to Jiangshi, not Angeloid."
+  },
+  {
+    "area": "Genie",
+    "name": "Whole owning source",
+    "disposition": "reference only; Brand stays cut",
+    "reason": "Complete source, three tables, 20 defined talents and 13 name-only entries preserved in donor appendix; no automatic import."
+  },
+  {
+    "area": "Infernal Arts",
+    "name": "Rejuvenation (Su)",
+    "disposition": "intended cut",
+    "reason": "Prior session blood-economy removal applies."
+  },
+  {
+    "area": "Infernal Arts",
+    "name": "Sanguine Invigoration (Su)",
+    "disposition": "intended cut",
+    "reason": "Prior session blood-economy removal applies."
+  },
+  {
+    "area": "Infernal Arts",
+    "name": "Resonance (Su)",
+    "disposition": "retained",
+    "reason": "Full revised-master rule unchanged."
+  },
+  {
+    "area": "Infernal Arts",
+    "name": "Conversion (Su)",
+    "disposition": "intended cut",
+    "reason": "Prior session blood-economy removal applies."
+  },
+  {
+    "area": "Infernal Arts",
+    "name": "Cross Training (Ex)",
+    "disposition": "retained",
+    "reason": "Full revised-master rule unchanged."
+  },
+  {
+    "area": "Infernal Arts",
+    "name": "Advanced Training (Ex)",
+    "disposition": "retained",
+    "reason": "Full revised-master rule unchanged."
+  },
+  {
+    "area": "Infernal Arts",
+    "name": "Friends on the Other Side (Su)",
+    "disposition": "retained",
+    "reason": "Full revised-master rule unchanged."
+  },
+  {
+    "area": "Infernal Arts",
+    "name": "Champion Feat (Ex)",
+    "disposition": "retained",
+    "reason": "Full revised-master rule unchanged."
+  },
+  {
+    "area": "Infernal Arts",
+    "name": "Kindled Essence (Su)",
+    "disposition": "retained",
+    "reason": "Full revised-master rule unchanged."
+  },
+  {
+    "area": "Infernal Arts",
+    "name": "Akashic Understanding (Su)",
+    "disposition": "retained",
+    "reason": "Full revised-master rule unchanged."
+  },
+  {
+    "area": "Infernal Arts",
+    "name": "Energy Nexus (Su)",
+    "disposition": "retained",
+    "reason": "Full revised-master rule unchanged."
+  },
+  {
+    "area": "Infernal Arts",
+    "name": "Negotiation, My Dear (Ex)",
+    "disposition": "retained",
+    "reason": "Full revised-master rule unchanged."
+  },
+  {
+    "area": "Infernal Arts",
+    "name": "Monster Collector (Su)",
+    "disposition": "retained",
+    "reason": "Full revised-master rule unchanged."
+  },
+  {
+    "area": "Infernal Arts",
+    "name": "Rajah Heraldry (Ex)",
+    "disposition": "retained",
+    "reason": "Full revised-master rule unchanged."
+  },
+  {
+    "area": "Infernal Arts",
+    "name": "Merge Brand (Su)",
+    "disposition": "retained",
+    "reason": "Full revised-master rule unchanged."
+  },
+  {
+    "area": "Infernal Arts",
+    "name": "Amped Brands (Su)",
+    "disposition": "retained",
+    "reason": "Full revised-master rule unchanged."
+  },
+  {
+    "area": "Infernal Arts",
+    "name": "True Pure Body (Ex)",
+    "disposition": "retained",
+    "reason": "Full revised-master rule unchanged."
+  },
+  {
+    "area": "Infernal Arts",
+    "name": "Leadership (Ex)",
+    "disposition": "retained",
+    "reason": "Full revised-master rule unchanged."
+  },
+  {
+    "area": "Infernal Arts",
+    "name": "Blood Surge (Su)",
+    "disposition": "intended cut",
+    "reason": "Prior session blood-economy removal applies."
+  },
+  {
+    "area": "Infernal Arts",
+    "name": "Soul Sight (Su)",
+    "disposition": "retained",
+    "reason": "Full revised-master rule unchanged."
+  },
+  {
+    "area": "Infernal Arts",
+    "name": "Infernal Stride (Su)",
+    "disposition": "retained with blood clause removed",
+    "reason": "Prior session blood-economy removal applies."
+  },
+  {
+    "area": "Infernal Arts",
+    "name": "Magatama Mastery (Ex)",
+    "disposition": "retained",
+    "reason": "Full revised-master rule unchanged."
+  },
+  {
+    "area": "Infernal Arts",
+    "name": "Dark Harvest (Su)",
+    "disposition": "intended cut",
+    "reason": "Prior session blood-economy removal applies."
+  },
+  {
+    "area": "Older features",
+    "name": "Armament",
+    "disposition": "intended cut",
+    "reason": "Explicit revised-master cut retained; not reinstated by source retrieval."
+  },
+  {
+    "area": "Older features",
+    "name": "Armament Expertise",
+    "disposition": "intended cut",
+    "reason": "Explicit revised-master cut retained; not reinstated by source retrieval."
+  },
+  {
+    "area": "Older features",
+    "name": "Extra Armament",
+    "disposition": "intended cut",
+    "reason": "Explicit revised-master cut retained; not reinstated by source retrieval."
+  },
+  {
+    "area": "Older features",
+    "name": "Abysscraft",
+    "disposition": "intended cut",
+    "reason": "Explicit revised-master cut retained; not reinstated by source retrieval."
+  },
+  {
+    "area": "Older features",
+    "name": "Crimson Rites",
+    "disposition": "intended cut",
+    "reason": "Explicit revised-master cut retained; not reinstated by source retrieval."
+  },
+  {
+    "area": "Progression",
+    "name": "harlequin",
+    "disposition": "source cells preserved and compared",
+    "reason": "See Source-Table-Audit.json. Angeloid empty final talent cell and Genie conflicting guidelines remain explicit."
+  },
+  {
+    "area": "Progression",
+    "name": "Jaguar sun",
+    "disposition": "source cells preserved and compared",
+    "reason": "See Source-Table-Audit.json. Angeloid empty final talent cell and Genie conflicting guidelines remain explicit."
+  },
+  {
+    "area": "Progression",
+    "name": "Genie",
+    "disposition": "source cells preserved and compared",
+    "reason": "See Source-Table-Audit.json. Angeloid empty final talent cell and Genie conflicting guidelines remain explicit."
+  },
+  {
+    "area": "Progression",
+    "name": "Unison device",
+    "disposition": "source cells preserved and compared",
+    "reason": "See Source-Table-Audit.json. Angeloid empty final talent cell and Genie conflicting guidelines remain explicit."
+  },
+  {
+    "area": "Progression",
+    "name": "Asura",
+    "disposition": "source cells preserved and compared",
+    "reason": "See Source-Table-Audit.json. Angeloid empty final talent cell and Genie conflicting guidelines remain explicit."
+  },
+  {
+    "area": "Progression",
+    "name": "Jiang shi",
+    "disposition": "source cells preserved and compared",
+    "reason": "See Source-Table-Audit.json. Angeloid empty final talent cell and Genie conflicting guidelines remain explicit."
+  },
+  {
+    "area": "Progression",
+    "name": "rakshasa",
+    "disposition": "source cells preserved and compared",
+    "reason": "See Source-Table-Audit.json. Angeloid empty final talent cell and Genie conflicting guidelines remain explicit."
+  },
+  {
+    "area": "Progression",
+    "name": "Angeloid",
+    "disposition": "source cells preserved and compared",
+    "reason": "See Source-Table-Audit.json. Angeloid empty final talent cell and Genie conflicting guidelines remain explicit."
+  }
+]

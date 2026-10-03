@@ -1,0 +1,4838 @@
+[
+  {
+    "before_event": 0,
+    "kind": "chapter",
+    "before": "Night Monarch",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 1,
+    "kind": "p",
+    "before": "This edition follows the revised master. The confirmed corrections in Integrated Revision govern brand identity and subsystem ownership, overriding earlier inspiration summaries. Current Edition Notes record subsequent author instructions and recovered source material.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 2,
+    "kind": "h",
+    "before": "Class Overview",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 3,
+    "kind": "p",
+    "before": "Starting Age: Intuitive",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 4,
+    "kind": "p",
+    "before": "Hit Die: d8",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 5,
+    "kind": "p",
+    "before": "Skill Ranks Per Level: 6 + Int modifier",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 6,
+    "kind": "p",
+    "before": "Class Skills: Acrobatics (Dex), Bluff (Cha), Climb (Str), Craft (Int), Diplomacy (Cha), Intimidate (Cha), Perception (Wis), Perform (Cha), Profession (Wis), Sense Motive (Wis), Spellcraft (Int), Use Magic Device (Cha)",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 7,
+    "kind": "p",
+    "before": "Proficiencies: Simple weapons, light armor, and bucklers. If this is the character's first level in any class, they may select a martial tradition of their choice.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 8,
+    "kind": "p",
+    "before": "Casting: Mid-Caster. Uses Charisma as casting ability modifier. Gains 2 bonus talents and may select a casting tradition the first time they gain the casting class feature.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 9,
+    "kind": "p",
+    "before": "Spell Pool: Level + Charisma modifier (minimum 1). Replenishes after 8 hours of rest.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 10,
+    "kind": "p",
+    "before": "Practitioner/Operative Modifier: Charisma",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 11,
+    "kind": "table",
+    "before": "Night Monarch Class Progression",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 12,
+    "kind": "h",
+    "before": "Core Class Features",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 13,
+    "kind": "h",
+    "before": "Blended Training",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 14,
+    "kind": "p",
+    "before": "The Night Monarch gains a combat or magic talent every time she gains a class level, according to the class table. Night Monarchs use their Charisma modifier as their practitioner modifier and operative modifier.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 15,
+    "kind": "h",
+    "before": "Master of Night (Su)",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 16,
+    "kind": "p",
+    "before": "The Night Monarch radiates an aura of dark authority. She gains a bonus on Intimidate checks equal to half her class level (minimum 1). Additionally, fiends, undead, and creatures with the evil subtype take a -2 penalty on saving throws against her abilities. At 10th level, this penalty increases to -4.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 17,
+    "kind": "h",
+    "before": "Dark Lore (Ex)",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 18,
+    "kind": "p",
+    "before": "The Night Monarch's study of souls and fiendish power grants her insight into the creatures she hunts. She may make Knowledge checks untrained, and adds half her class level to all Knowledge (arcana), Knowledge (planes), and Knowledge (religion) checks. Additionally, when she successfully identifies a creature's abilities or weaknesses, she gains a +1 insight bonus on attack rolls against that creature for 24 hours.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 19,
+    "kind": "h",
+    "before": "Soul Arts (Su)",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 20,
+    "kind": "p",
+    "before": "The Night Monarch learns how to harvest and control souls of others, gaining the Soul sphere as a bonus feat at 1st level. She uses her Hit Dice as her caster level for all Soul sphere talents.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 21,
+    "kind": "h",
+    "before": "Bloodline Brands (Su)",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 22,
+    "kind": "p",
+    "before": "As a full-round action, the Night Monarch may attempt to absorb the soul essence of a willing or recently defeated creature, creating a Bloodline Brand. She may only attempt absorption within a number of rounds equal to her class level after the creature's defeat. To absorb a creature, the Night Monarch rolls percentile dice. The base absorption chance is 25%, modified as follows: • +5% per class level • -5% per Hit Die the creature possesses • +10% if the creature is willing If the roll succeeds, the Night Monarch gains a Bloodline Brand tied to that creature's essence, granting her access to that brand's talent list. She may store a number of Bloodline Brands equal to her Bloodline Brands column. If she is already at maximum brands, she must choose one to permanently overwrite. Switching her active brand costs a full-round action.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 23,
+    "kind": "h",
+    "before": "Succubus Companion",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 24,
+    "kind": "p",
+    "before": "The Night Monarch starts the game with a special companion known as a Succubus at 1st level, bound to one of her Bloodline Brand slots. See the Succubus Companion section for full rules.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 25,
+    "kind": "h",
+    "before": "Magatama (Su)",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 26,
+    "kind": "p",
+    "before": "At 2nd level, the Night Monarch may customize up to three magatama — sacred gems she spends 8 hours attuning through meditation, ritual, and combat practice. Each magatama represents a unique configuration of power she has drilled into her fighting style. The number of magatama she may have customized simultaneously increases to 4 at 8th level and 5 at 14th level. Each magatama may contain a number of sphere talents equal to the Talents per Magatama column on the Night Monarch table. A magatama must contain a base sphere before additional talents from that sphere may be added, unless the Night Monarch already possesses that base sphere through another source such as Blended Training, the Extra Combat Talent feat, or multiclassing. Talents granted by a magatama cannot be used to qualify for feats or meet prerequisites unless otherwise noted. Spheres and talents that grant skill retraining never do so when gained through a magatama. The Night Monarch may only benefit from one magatama at a time — this is her active magatama. She may switch her active magatama as a swift action. She may customize a new magatama or alter an existing one by spending 8 hours, choosing which talents to lose and which to replace them with.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 27,
+    "kind": "h",
+    "before": "Infernal Grace (Su)",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 28,
+    "kind": "p",
+    "before": "At 2nd level, the Night Monarch adds her Charisma modifier as a bonus on all saving throws.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 29,
+    "kind": "h",
+    "before": "Uncanny Dodge (Ex)",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 30,
+    "kind": "p",
+    "before": "At 4th level, the Night Monarch retains her Dexterity bonus to AC even when caught flat-footed or struck by an invisible attacker.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 31,
+    "kind": "h",
+    "before": "Improved Uncanny Dodge (Ex)",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 32,
+    "kind": "p",
+    "before": "At 12th level, the Night Monarch can no longer be flanked, except by a rogue of at least 4 levels higher.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 33,
+    "kind": "h",
+    "before": "Archfiend Form (Su)",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 34,
+    "kind": "p",
+    "before": "At 20th level, the Night Monarch permanently becomes an outsider. Her creature type changes to outsider (native) with the evil and extraplanar subtypes. She chooses one fiend subtype — devil (lawful), demon (chaotic), or daemon (neutral) — which cannot be changed. She gains the following permanent benefits: • Darkvision 60 ft (or existing darkvision increases by 30 ft) • Damage Reduction 10/good • Energy Resistance 10 to fire and one energy type appropriate to her subtype (cold for devil, electricity for demon, acid for daemon) • Immunity to poison and disease • No longer needs to eat, sleep, or breathe (may still rest to recover spell points) • Tongues (constant, self only) — communicate with any creature that has a language • Spell Resistance equal to 11 + Night Monarch level • Charisma increases by +4",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 35,
+    "kind": "h",
+    "before": "Infernal Arts",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 36,
+    "kind": "p",
+    "before": "As the Night Monarch's power grows she learns special techniques known as Infernal Arts to further her dark mastery. At 1st level and every 2 levels after that, the Night Monarch learns one Infernal Art from the following list. Unless otherwise noted, each Infernal Art may only be taken once.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 37,
+    "kind": "h",
+    "before": "Resonance (Su)",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 38,
+    "kind": "p",
+    "before": "The Night Monarch may spend 1 spell point as a swift action to empower her active Succubus companion's supernatural abilities, granting a +2 bonus on attack rolls and damage rolls made with those abilities for 1 round.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 39,
+    "kind": "h",
+    "before": "Cross Training (Ex)",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 40,
+    "kind": "p",
+    "before": "Through rigorous study or field practice, the Night Monarch has acquired the fundamental ability of another class. She may select one class other than her own to cross-train with. She gains one 1st-level class feature of her choice from the chosen class. She does not gain the chosen class's BAB, saving throw improvements, or spellcasting progression. This class cannot be changed once selected.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 41,
+    "kind": "h",
+    "before": "Advanced Training (Ex)",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 42,
+    "kind": "p",
+    "before": "Having honed her cross-training further, the Night Monarch now gains class features from the cross-trained class as if she were a number of levels equal to her total character level, but only up to a maximum of 5th level in that class. Prerequisite: Cross Training.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 43,
+    "kind": "h",
+    "before": "Friends on the Other Side (Su)",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 44,
+    "kind": "p",
+    "before": "The Night Monarch learns to contact a special outsider merchant, allowing her to buy and sell anywhere by spending a full-round action.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 45,
+    "kind": "h",
+    "before": "Champion Feat (Ex)",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 46,
+    "kind": "p",
+    "before": "The Night Monarch gains any one combat feat as a bonus feat, ignoring prerequisites.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 47,
+    "kind": "h",
+    "before": "Kindled Essence (Su)",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 48,
+    "kind": "p",
+    "before": "The Night Monarch's studies allow her to kindle her akashic spark, granting her an essence pool equal to her class level plus her Charisma modifier.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 49,
+    "kind": "h",
+    "before": "Akashic Understanding (Su)",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 50,
+    "kind": "p",
+    "before": "The Night Monarch's studies of akashic energies allow her to bind veils into her chakras, unlocking them in the following order: hands, head, feet, headband, shoulder, wrist, belt, neck. The Night Monarch's veil list contains all veils from the Promethean and Vizier lists, along with the following unique veils: Oni Sword Master's Pauldron, Reaper's Glaive, Night Monarch Warblade.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 51,
+    "kind": "h",
+    "before": "Energy Nexus (Su)",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 52,
+    "kind": "p",
+    "before": "The Night Monarch learns to convert multiple energy types — spell pool, ki, and essence — between each other. As a full-round action, she can convert up to her Charisma modifier in points of one energy type she controls to another energy type she controls.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 53,
+    "kind": "h",
+    "before": "Negotiation, My Dear (Ex)",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 54,
+    "kind": "p",
+    "before": "The Night Monarch knows the importance of hazard pay, compensation, and negotiations. She adds her class level to any Diplomacy checks made to earn monetary rewards.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 55,
+    "kind": "h",
+    "before": "Monster Collector (Su)",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 56,
+    "kind": "p",
+    "before": "The Night Monarch becomes adept at absorbing unusual creatures. When using Bloodline Brands, she can now absorb the essence of monstrous creatures (magical beasts, dragons, etc.), provided they possess supernatural abilities. The number of brands she can store increases by 1.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 57,
+    "kind": "h",
+    "before": "Rajah Heraldry (Ex)",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 58,
+    "kind": "p",
+    "before": "The Night Monarch can create a magical crest that inspires awe in allies and fear in enemies. As a standard action, she projects an aura (30-ft. radius) for a number of rounds equal to her Charisma modifier. Allies gain a +1 morale bonus to attack rolls and saving throws. Enemies suffer a -1 penalty to these rolls. At 10th level, these bonuses and penalties increase to +2/-2.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 59,
+    "kind": "h",
+    "before": "Merge Brand (Su)",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 60,
+    "kind": "p",
+    "before": "The Night Monarch can merge two Bloodline Brands into one, combining their abilities. The merged brand counts as a single brand but retains both sets of abilities. Switching to or from a merged brand still requires the standard action cost. At 12th level, the Night Monarch may merge up to three brands.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 61,
+    "kind": "h",
+    "before": "Amped Brands (Su)",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 62,
+    "kind": "p",
+    "before": "The Night Monarch may augment her brands with Mana Sphere amp talents. When using abilities gained from Bloodline Brands, she may expend 1 spell point to apply a single Mana amp talent she knows to the ability.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 63,
+    "kind": "h",
+    "before": "True Pure Body (Ex)",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 64,
+    "kind": "p",
+    "before": "The Night Monarch perfects her physical form. She gains the full hit points from her Hit Dice, instead of rolling or taking the average. This applies retroactively to all previous levels.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 65,
+    "kind": "h",
+    "before": "Leadership (Ex)",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 66,
+    "kind": "p",
+    "before": "The Night Monarch gains the Leadership feat, using her Charisma modifier as the primary determining factor for her cohort and followers.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 67,
+    "kind": "h",
+    "before": "Soul Sight (Su)",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 68,
+    "kind": "p",
+    "before": "The Night Monarch's dark lore sharpens into supernatural perception. She gains blindsense 30 ft against any creature whose Bloodline Brand she possesses. Additionally she may spend 1 spell point to gain true seeing for 1 round per class level once per day.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 69,
+    "kind": "h",
+    "before": "Infernal Stride (Su)",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 70,
+    "kind": "p",
+    "before": "The Night Monarch's fiendish nature bleeds into her movement. She gains a +10 bonus to her base land speed. ",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 71,
+    "kind": "h",
+    "before": "Magatama Mastery (Ex)",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 72,
+    "kind": "p",
+    "before": "The Night Monarch's attunement to her magatama deepens. She may switch her active magatama as a free action instead of a swift action. Additionally once per day she may benefit from two active magatama simultaneously for a number of rounds equal to her Charisma modifier. Prerequisite: Must possess at least 3 customized magatama.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 73,
+    "kind": "chapter",
+    "before": "Succubus Companion",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 74,
+    "kind": "p",
+    "before": "The Night Monarch starts the game with a special companion known as a Succubus at 1st level, bound to one of her Bloodline Brand slots.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 75,
+    "kind": "table",
+    "before": "Succubus Companion Progression",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 76,
+    "kind": "h",
+    "before": "Brand Bounty (Su)",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 77,
+    "kind": "p",
+    "before": "The Succubus companion may be stored within one of her master's Bloodline Brand slots. While stored, the Night Monarch gains access to all of her Succubus companion's currently known talents as if they were her own. The Succubus companion continues to gain experience and talents normally while stored. Retrieving or storing the Succubus companion requires a full- round action.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 78,
+    "kind": "h",
+    "before": "Spiritual Development (Ex)",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 79,
+    "kind": "p",
+    "before": "The Succubus companion's physical form grows stronger as her bond with her master deepens. She gains a bonus to both Strength and Dexterity equal to the Str/Dex Boost column on her progression table.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 80,
+    "kind": "h",
+    "before": "Profane Grace (Su)",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 81,
+    "kind": "p",
+    "before": "At 3rd level, the Succubus companion adds her Charisma modifier as a bonus on all saving throws.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 82,
+    "kind": "h",
+    "before": "Alertness (Ex)",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 83,
+    "kind": "p",
+    "before": "While the Succubus companion is within reach, her master gains the Alertness feat, receiving a +2 bonus on Perception and Sense Motive checks. If the master already has Alertness, these bonuses increase to +4.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 84,
+    "kind": "h",
+    "before": "Magi-Change",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 85,
+    "kind": "p",
+    "before": "The Succubus companion can transform herself into weapon or armor forms for her master. Unless noted, all Magi-Change transformations last a number of rounds equal to the Succubus's Hit Dice or until she reverts as a free action.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 86,
+    "kind": "h",
+    "before": "Succubus Talent List",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 87,
+    "kind": "p",
+    "before": "1. Hex (Su): The Succubus gains the ability to use witch hexes as if she were a witch of half her Hit Dice. She selects one hex upon gaining this talent and may use it a number of times per day equal to 3 + her Charisma modifier.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 88,
+    "kind": "p",
+    "before": "2. Eyecandy (Ex): The Succubus gains a +2 inherent bonus to Charisma. This bonus increases to +4 at 10th level.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 89,
+    "kind": "p",
+    "before": "3. Initiate Magic (Sp): The Succubus gains detect good, charm person, and suggestion as spell-like abilities, each usable a number of times per day equal to 3 + her Charisma modifier.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 90,
+    "kind": "p",
+    "before": "4. Magi-Change: Succubus Arms (Su): As a full-round action, transforms into a melee or ranged weapon. Deals base damage appropriate to the weapon type. Enhancement bonus equal to half Hit Dice (min +1, max +5). Deals damage as evil-aligned. Fast Magi- Change reduces this to standard action; Lightning Magi-Change reduces to swift.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 91,
+    "kind": "p",
+    "before": "5. Magi-Change: Armor of Lust (Su): As a full-round action, transforms into light, medium, or heavy armor. Enhancement bonus to AC equal to half Hit Dice (min +1, max +5). Grants fire resistance 10 and +2 bonus to saves vs. mind-affecting effects.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 92,
+    "kind": "p",
+    "before": "6. Fast Magi-Change (Su): Activating Magi-Change abilities now requires only a standard action.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 93,
+    "kind": "p",
+    "before": "7. Lightning Magi-Change (Su): Activating Magi-Change abilities now requires only a swift action. Prerequisite: Fast Magi-Change.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 94,
+    "kind": "p",
+    "before": "8. Slotted Magi-Change (Su): Magi-Change forms gain slots the master may use to apply spheres or talents related to the transformed form for the duration.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 95,
+    "kind": "p",
+    "before": "9. Sisterhood of the Master (Ex): While in the presence of another female bonded companion, the Succubus gains a +2 morale bonus to all saves and increases her effective Hit Dice by 2 for ability scaling.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 96,
+    "kind": "p",
+    "before": "10. Companion of the Lonely (Ex): Gains the Vigilante's Social Talent: Loyal Aid. +4 bonus on Diplomacy checks to gather information; may deliver messages with uncanny speed.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 97,
+    "kind": "p",
+    "before": "11. Soul Whip (Ex): Creates a melee force whip (1d8 medium / 1d6 small). Enhancement bonus equal to half Hit Dice. Deals force damage and can be used for disarm and trip attempts.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 98,
+    "kind": "p",
+    "before": "12. Heart Cannon (Su): As a standard action, fires a bolt of energy within 30 feet. Ranged touch attack dealing 1d6 per 2 Hit Dice (min 1d6). Damage is evil-aligned.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 99,
+    "kind": "p",
+    "before": "13. Bat Swarm (Su): As a standard action, targets a 10-foot radius within 30 feet. Deals 1d6 per 2 Hit Dice (Reflex half). Struck enemies suffer -2 AC until the start of her next turn.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 100,
+    "kind": "p",
+    "before": "14. Cultivated Power (Ex): May shift ability score increases to Wisdom or Charisma instead of Strength or Dexterity.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 101,
+    "kind": "p",
+    "before": "15. Channel Devotion (Su): Gains channel energy usable 3 + Charisma modifier times per day. Heals living or harms undead in a 30-ft radius for 1d6 per 2 Hit Dice.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 102,
+    "kind": "p",
+    "before": "16. Channel Adoration (Su): Channel energy also grants affected allies a +1 morale bonus to attack rolls and saves for 1 minute.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 103,
+    "kind": "p",
+    "before": "17. Demon of Multiple Worlds (Ex): May select up to three supernatural or spell-like abilities thematically appropriate to the campaign world, each usable once per day.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 104,
+    "kind": "p",
+    "before": "18. Soul Eater (Su): As a standard action, devours the soul of a creature that died within the last minute. Grants temporary HP equal to the creature's Hit Dice and +1 to attack rolls for 1 minute.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 105,
+    "kind": "p",
+    "before": "19. Extra Form (Su): Gains an additional Magi-Change form (weapon or armor), usable independently of existing forms.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 106,
+    "kind": "p",
+    "before": "20. Dark Mistress (Ex): Gains telepathic communication with her master at all times, regardless of distance.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 107,
+    "kind": "p",
+    "before": "21. Demonic Bloodline (Su): Gains DR 5/cold iron or good, immunity to poison, fire resistance 10. At 15th level, DR improves to 10/cold iron or good, fire resistance increases to 20, and she becomes immune to charm effects.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 108,
+    "kind": "p",
+    "before": "Light Spear (Su): As a standard action, hurls a spear of condensed radiant energy at a target within 60 feet. Ranged touch attack dealing 1d8 radiant damage per two class levels (maximum 10d8). Named in honor of Raynartte.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 109,
+    "kind": "p",
+    "before": "Channel Pool (Su): Gains channel energy as a cleric of her class level. Usable 3 + Charisma modifier times per day, healing living or harming undead in a 30-ft radius for 1d6 per two class levels.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 110,
+    "kind": "p",
+    "before": "Awareness (Ex): While this Bloodline Brand is active, the Night Monarch retains her Succubus companion's Alertness bonus regardless of proximity (+2 Perception and Sense Motive; +4 if she already has Alertness).",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 111,
+    "kind": "p",
+    "before": "True Speech (Ex): The Night Monarch gains the ability to speak and understand all languages as per tongues. This effect is constant and requires no concentration.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 112,
+    "kind": "p",
+    "before": "Weapon Forms: Staff, Scythe, Sword, Gun, Gauntlet, Spear",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 113,
+    "kind": "chapter",
+    "before": "Bloodline Brands",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 114,
+    "kind": "p",
+    "before": "Bloodline Brands are supernatural marks tied to the Night Monarch's soul. As a full-round action, the Night Monarch can attempt to absorb willing or recently defeated creatures' life essence to create a Bloodline Brand, gaining access to their abilities as supernatural powers. See Core Class Features for absorption rules. The complete brand list contains 28 brands. Each brand uses either the standard Succubus Companion progression table or the Path of War Martial progression table (noted per brand).",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 115,
+    "kind": "table",
+    "before": "Standard Brand Progression",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 116,
+    "kind": "p",
+    "before": "Used by: Asura, Jaguar Sun, Rakshasa, Jiangshi",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 117,
+    "kind": "table",
+    "before": "Martial Brand Progression",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 118,
+    "kind": "h",
+    "before": "Lamia",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 119,
+    "kind": "p",
+    "before": "Inspired by classic lamia mythology and Cassiopeia.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 120,
+    "kind": "p",
+    "before": "22. Petrifying Gaze (Su): As a standard action, target one creature within 30 feet. Fort save (DC 10 + half level + Cha) or be slowed 1 round/level. At 10th level, failed save results in petrification instead.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 121,
+    "kind": "p",
+    "before": "23. Poison Spray (Su): Ranged attack within 30 ft. Fort save or take 1d4 Con damage, repeating each round for 6 rounds.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 122,
+    "kind": "p",
+    "before": "24. Magi-Change (Su): Standard weapon transformation form.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 123,
+    "kind": "p",
+    "before": "25. Magi-Change Armor (Su): Standard armor transformation form.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 124,
+    "kind": "p",
+    "before": "26. Fast Magi-Change (Su): As companion talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 125,
+    "kind": "p",
+    "before": "27. Lightning Magi-Change (Su): As companion talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 126,
+    "kind": "p",
+    "before": "28. Slotted Magi-Change (Su): As companion talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 127,
+    "kind": "p",
+    "before": "29. Skill Granter (Ex): Adds class level as a bonus on all Perform (Dance) checks.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 128,
+    "kind": "p",
+    "before": "30. Snake Bolt (Su): Ranged touch attack within 60 ft, dealing 1d6 poison damage per two class levels (max 10d6).",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 129,
+    "kind": "p",
+    "before": "31. Hypnotic Gaze (Su): Gains the Mesmerist's Hypnotic Stare, imposing -2 on Will saves against her abilities on one target within 30 ft as a swift action.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 130,
+    "kind": "p",
+    "before": "32. Eyecandy (Ex): As companion talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 131,
+    "kind": "p",
+    "before": "33. Initiate Magic (Sp): As companion talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 132,
+    "kind": "p",
+    "before": "34. Constrict (Ex): Whenever she successfully grapples, deals 1d8 + Cha modifier bludgeoning damage automatically each round the grapple is maintained.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 133,
+    "kind": "p",
+    "before": "35. Rattlesnake (Ex): As a swift action, all enemies within 30 ft make Will save or be shaken for 1d4 rounds. Already shaken creatures become frightened.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 134,
+    "kind": "p",
+    "before": "36. Grace (Ex): Adds Charisma to AC as dodge bonus.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 135,
+    "kind": "p",
+    "before": "37. Cultivation (Ex): Flexible ability score improvements.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 136,
+    "kind": "p",
+    "before": "38. Crest (Ex): +2 bonus on Bluff and Intimidate (+4 at 10th level).",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 137,
+    "kind": "p",
+    "before": "39. Sisterhood of Master (Ex): As companion talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 138,
+    "kind": "p",
+    "before": "40. Cubellios (Su): As a full-round action, transforms into a massive serpentine form. Gains a bite (2d8 + Cha mod), +4 CMD vs. trip, and empowered Poison Spray (2d4 Con damage). Lasts class level rounds.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 139,
+    "kind": "h",
+    "before": "Felyn",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 140,
+    "kind": "p",
+    "before": "Inspired by the Disgaea Felyn monster class and Felicia from Darkstalkers.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 141,
+    "kind": "p",
+    "before": "41. Right Hand Nyan (Ex): Gains a loyal Felyn cohort as per the Leadership feat's Cohort feature. The cohort is always a Felyn creature and acts on the Night Monarch's initiative.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 142,
+    "kind": "p",
+    "before": "42. Sisterhood of Master (Ex): As companion talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 143,
+    "kind": "p",
+    "before": "43. Awareness (Ex): As Succubus brand talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 144,
+    "kind": "p",
+    "before": "44. Cultivation (Ex): Flexible ability score improvements.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 145,
+    "kind": "p",
+    "before": "45. Flurry of Blows (Ex): Gains the Monk's Flurry of Blows using class level as Monk level. Usable with natural weapons or unarmed strikes.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 146,
+    "kind": "p",
+    "before": "46. Beast Cannon (Su): Curls into a ball of bestial energy and launches at a target as a standard action. Functions as a charge dealing 2d6 + Cha mod bludgeoning damage. Target makes Reflex save (DC 10 + half level + Cha) or be knocked prone.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 147,
+    "kind": "p",
+    "before": "47. Magi-Change Weapon (Su): Standard weapon transformation form.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 148,
+    "kind": "p",
+    "before": "48. Magi-Change Beast Princess (Su): Transforms into armor granting +2 AC, +10 ft land speed, and two claw attacks (1d6 each) as secondary natural weapons.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 149,
+    "kind": "p",
+    "before": "49. Slotted Magi-Change (Su): As companion talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 150,
+    "kind": "p",
+    "before": "50. Cultivate Ki (Su): Gains a ki pool equal to half class level + Cha modifier. May spend 1 ki as a swift action to gain an extra attack at highest BAB until end of turn.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 151,
+    "kind": "p",
+    "before": "51. Grace (Ex): As companion talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 152,
+    "kind": "p",
+    "before": "52. Crest (Ex): As companion talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 153,
+    "kind": "p",
+    "before": "53. Inner Magic (Sp): Gains three spell-like abilities chosen from the Ranger or Druid spell list of 3rd level or lower, each usable once per day.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 154,
+    "kind": "p",
+    "before": "54. Support Kitty (Ex): As a swift action, grants one ally within 30 ft a +2 morale bonus on attack rolls and saves for 1 round. At 10th level, increases to +4.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 155,
+    "kind": "p",
+    "before": "55. Felyn Martial Arts (Ex): Gains Improved Unarmed Strike as a bonus feat. Unarmed strikes and claw attacks are treated as magic weapons. Adds Charisma modifier to natural weapon damage rolls.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 156,
+    "kind": "p",
+    "before": "56. Beastcraft (Su): Fuses with beastkin essence as a full-round action. Gains +2 Str/Dex, low-light vision, and +4 on Acrobatics and Perception for class level rounds. Usable once per day per 5 class levels.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 157,
+    "kind": "h",
+    "before": "Dragon",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 158,
+    "kind": "p",
+    "before": "Inspired by Issei Hyoudou (High School DxD) and Natsu Dragneel (Fairy Tail). Energy type determined by the dragon absorbed and cannot be changed.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 159,
+    "kind": "p",
+    "before": "57. Drake Shot (Su): Ranged touch attack within 60 ft. Deals 1d6 damage per two class levels (max 10d6) in the energy type of the absorbed dragon.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 160,
+    "kind": "p",
+    "before": "58. Drake Blow (Su): Melee strike dealing +1d8 fire damage per four class levels. Target makes Fort save or be pushed back 5 feet.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 161,
+    "kind": "p",
+    "before": "59. Magi-Change (Su): Standard weapon transformation form.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 162,
+    "kind": "p",
+    "before": "60. Magi-Change Armor (Su): Standard armor transformation form.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 163,
+    "kind": "p",
+    "before": "61. Extra Drake Power (Ex): Gains one talent from the following list: breath weapon recharge, draconic claws, dragon wings, frightful presence, or scale armor. May be taken multiple times.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 164,
+    "kind": "p",
+    "before": "62. Fast (Ex): Increase base land and fly speed by 10 ft. May be taken multiple times.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 165,
+    "kind": "p",
+    "before": "63. Lightning (Ex): May make one extra attack on a charge. May be taken twice.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 166,
+    "kind": "p",
+    "before": "64. Lingering (Su): Brand effects persist for 1 additional round after dismissal.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 167,
+    "kind": "p",
+    "before": "65. Greater (Ex): One chosen brand ability functions as if 2 levels higher.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 168,
+    "kind": "p",
+    "before": "66. Treasure Sense (Ex): +4 bonus on Appraise checks. Automatically detects gold, gems, or magic items within 30 ft as a free action.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 169,
+    "kind": "p",
+    "before": "67. Second Breath (Su): 30-ft cone dealing 1d6 of breath weapon energy and 1d6 electricity damage per two class levels (max 10d6 each). Reflex save half. Usable once per day per 5 class levels.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 170,
+    "kind": "p",
+    "before": "68. Draconic Blessing (Su): As a standard action, grants one ally within 30 ft a +2 bonus on attack/damage rolls and resistance 10 to one energy type for Cha modifier rounds. At 10th level: +4 and resistance 20.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 171,
+    "kind": "p",
+    "before": "69. Cultivation (Ex): Flexible ability score improvements.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 172,
+    "kind": "p",
+    "before": "70. Awareness (Ex): As Succubus brand talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 173,
+    "kind": "p",
+    "before": "71. Grace (Ex): As companion talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 174,
+    "kind": "p",
+    "before": "72. Crest (Ex): As companion talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 175,
+    "kind": "p",
+    "before": "73. Initiate Magic (Sp): As companion talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 176,
+    "kind": "p",
+    "before": "74. Extra Form (Su): As companion talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 177,
+    "kind": "h",
+    "before": "Succubus",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 178,
+    "kind": "p",
+    "before": "See Succubus Companion section. All Succubus brand talents mirror the companion's talent list.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 179,
+    "kind": "h",
+    "before": "Angeloid (Fallen Angel)",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 180,
+    "kind": "p",
+    "before": "Inspired by Ikaros from Heaven's Lost Property.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 181,
+    "kind": "p",
+    "before": "75. Machine Empathy (Ex): Can communicate with constructs as if sharing a language. +4 on Use Magic Device checks. Constructs will not attack her unless directly commanded.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 182,
+    "kind": "p",
+    "before": "76. Channel Energy (Su): As companion Channel Devotion talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 183,
+    "kind": "p",
+    "before": "77. Eyecandy (Ex): As companion talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 184,
+    "kind": "p",
+    "before": "78. Initiate Magic (Sp): As companion talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 185,
+    "kind": "p",
+    "before": "79. Magi-Change Arms (Su): Standard weapon transformation form.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 186,
+    "kind": "p",
+    "before": "80. Magi-Change Armor (Su): Standard armor transformation form.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 187,
+    "kind": "p",
+    "before": "81. Fast Magi-Change (Su): As companion talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 188,
+    "kind": "p",
+    "before": "82. Lightning Magi-Change (Su): As companion talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 189,
+    "kind": "p",
+    "before": "83. Slotted Magi-Change (Su): As companion talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 190,
+    "kind": "p",
+    "before": "84. Light Halo (Su): As a standard action, fires a crescent blast in a 30-ft line dealing 1d6 radiant damage per two Hit Dice (max 10d6). At 10th level, fire two halos per action. At 15th level, halos explode on impact dealing half damage in a 10-ft radius.",
+    "disposition": "restored source clause: Angeloid range / explosion"
+  },
+  {
+    "before_event": 191,
+    "kind": "p",
+    "before": "85. Light Spear (Su): As a standard action, hurls a divine spear at a target within 60 feet dealing 1d8 radiant damage per two Hit Dice (max 10d8). Bypasses all DR except DR/-. At 12th level, summon two spears per action. At 18th level, spears explode on impact.",
+    "disposition": "restored source clause: Angeloid range / explosion"
+  },
+  {
+    "before_event": 192,
+    "kind": "p",
+    "before": "86. Chain Slam (Su): Conjures Apollon chains targeting one creature within 30 ft. Reflex save or be grabbed and slammed, taking 2d6 + Cha mod bludgeoning damage and knocked prone.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 193,
+    "kind": "p",
+    "before": "87. Awareness (Ex): As Succubus brand talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 194,
+    "kind": "p",
+    "before": "88. Cultivated Power (Ex): As companion talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 195,
+    "kind": "p",
+    "before": "89. Grace (Ex): As companion talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 196,
+    "kind": "p",
+    "before": "90. Protective Aura (Su): Projects a 20-ft aura granting allies +2 AC and saves against evil creatures.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 197,
+    "kind": "p",
+    "before": "91. True Speech (Ex): As Succubus brand talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 198,
+    "kind": "p",
+    "before": "92. Demon of Multiple Worlds (Ex): As companion talent. Weapon Forms: Sword, Spear, Shield, Hammer, Rod",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 199,
+    "kind": "h",
+    "before": "Banshee",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 200,
+    "kind": "p",
+    "before": "Inspired by Sylvanas Windrunner from World of Warcraft.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 201,
+    "kind": "p",
+    "before": "93. Phantasmal Spear (Su): Ranged touch attack within 60 ft dealing 1d8 negative energy damage per two class levels (max 10d8). Undead are healed instead.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 202,
+    "kind": "p",
+    "before": "94. Scream (Su): 30-ft cone as a standard action. Living creatures make Fort save or take 1d6 negative energy per two class levels and become frightened for 1d4 rounds. Success: half damage and shaken.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 203,
+    "kind": "p",
+    "before": "95. Dark Lieutenant (Su): Gains the Death sphere as a bonus sphere. Uses class level as caster level for Death sphere abilities. Maximum controllable undead increases to class level x Charisma modifier. Animated undead gain a bonus to attacks and saves equal to half Charisma modifier.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 204,
+    "kind": "p",
+    "before": "96. Master's Right Hand (Ex): +4 on Diplomacy and Intimidate against undead and controlled creatures.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 205,
+    "kind": "p",
+    "before": "97. Fast Magi-Change (Su): As companion talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 206,
+    "kind": "p",
+    "before": "98. Lightning Magi-Change (Su): As companion talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 207,
+    "kind": "p",
+    "before": "99. Slotted Magi-Change (Su): As companion talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 208,
+    "kind": "p",
+    "before": "Magi-Change (Su): Standard weapon transformation form.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 209,
+    "kind": "p",
+    "before": "Magi-Change Armor (Su): Standard armor transformation form.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 210,
+    "kind": "p",
+    "before": "Initiate Magic (Sp): As companion talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 211,
+    "kind": "p",
+    "before": "Crest (Ex): As companion talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 212,
+    "kind": "p",
+    "before": "Companion of Lonely (Ex): As companion talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 213,
+    "kind": "p",
+    "before": "Sisterhood of Master (Ex): As companion talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 214,
+    "kind": "p",
+    "before": "Stygian Lore (Ex): Adds class level to Knowledge (religion) checks. May identify undead creatures and their abilities as a free action.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 215,
+    "kind": "p",
+    "before": "Cultivation (Ex): Flexible ability score improvements.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 216,
+    "kind": "p",
+    "before": "Grace (Ex): As companion talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 217,
+    "kind": "h",
+    "before": "Jiangshi",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 218,
+    "kind": "p",
+    "before": "Inspired by Hsien-Ko from Darkstalkers. Uses Martial Brand (Path of War) progression table. Disciplines TBD.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 219,
+    "kind": "p",
+    "before": "Shroud (Su): As a swift action, wraps in spectral energy gaining 20% miss chance vs. physical attacks and +2 Intimidate. Lasts Cha modifier rounds. Usable class level times per day.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 220,
+    "kind": "p",
+    "before": "Magi-Change (Su): Vampiric weapon form dealing bleed and necrotic damage.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 221,
+    "kind": "p",
+    "before": "Magi-Change Armor (Su): Ethereal armor granting resistance to negative energy and mind-affecting effects.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 222,
+    "kind": "p",
+    "before": "Slotted Magi-Change (Su): As companion talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 223,
+    "kind": "p",
+    "before": "Phantasmal Spear (Su): As Banshee brand talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 224,
+    "kind": "p",
+    "before": "Dark Lieutenant (Su): As Banshee brand talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 225,
+    "kind": "p",
+    "before": "Vampire Shroud (Su): While Shroud is active, melee attacks deal +1d6 negative energy and she gains temp HP equal to negative energy dealt. Prerequisite: Shroud.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 226,
+    "kind": "p",
+    "before": "Focusing Shroud (Su): While Shroud is active, gains +2 insight bonus on attack rolls and critical threat range increases by 1. At 10th level, bonus increases to +4. Prerequisite: Shroud.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 227,
+    "kind": "p",
+    "before": "Master's Right Hand (Ex): As Banshee brand talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 228,
+    "kind": "p",
+    "before": "Chain Slam (Su): As Angeloid brand talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 229,
+    "kind": "p",
+    "before": "Gravekeeper Rites (Su): A nod to Gray from Type-Moon. Spend 2 spell points as an immediate action to automatically dispel one magical effect, supernatural ability, or spell-like ability targeting her or an adjacent ally. Ignores SR and functions against any caster level.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 230,
+    "kind": "p",
+    "before": "Crest (Ex): As companion talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 231,
+    "kind": "p",
+    "before": "Cultivation (Ex): Flexible ability score improvements.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 232,
+    "kind": "p",
+    "before": "Awareness (Ex): As Succubus brand talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 233,
+    "kind": "p",
+    "before": "Sleeve Claws (Ex): Gain elongated sleeves as discipline weapons (1d6 magic).",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 234,
+    "kind": "p",
+    "before": "Paper Charm Volley (Su): Ranged strike 30 ft, 1d6 + half IL negative energy.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 235,
+    "kind": "p",
+    "before": "Twin-Sleeve Art (Ex): May initiate maneuvers with both hands when a strike allows multiple attacks.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 236,
+    "kind": "p",
+    "before": "Ghost Step (Ex): Teleport 5 ft per two IL as move action (1/encounter).",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 237,
+    "kind": "p",
+    "before": "Dead-Flow Technique (Ex): 5-ft slide before or after a maneuver.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 238,
+    "kind": "p",
+    "before": "Ghastly Flutter (Ex): +2 dodge AC while moving; glide 20 ft/level.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 239,
+    "kind": "p",
+    "before": "Spirit Siphon (Su): Regain 1 temp spell or ki point when you reduce a foe to 0 HP (1/round).",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 240,
+    "kind": "p",
+    "before": "Mirror of Paper Flesh (Su): 1/day halve damage and create paper double for 1 round.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 241,
+    "kind": "p",
+    "before": "Ghost Bell Dance (Su): While in a stance, increase threat +5 ft; add +1d6 negative energy.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 242,
+    "kind": "p",
+    "before": "Talisman Paradox (Su): Once per encounter, create paper duplicate that mirrors your actions for 1 round/3 IL.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 243,
+    "kind": "p",
+    "before": "Iron Charm Barrier (Su): Gain SR 10 + IL; toggle as free action.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 244,
+    "kind": "p",
+    "before": "Twin Mantra (Su): Maintain two stances for 1 round (1 spell or ki point).",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 245,
+    "kind": "p",
+    "before": "Corpse Flow Mastery (Ex): No longer provoke AoO for movement while in a stance.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 246,
+    "kind": "p",
+    "before": "Chi Drain Talons (Su): Claw attacks deal +1d6 negative energy damage and grant temp HP equal to negative energy dealt. Temp HP last 1 minute and do not stack.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 247,
+    "kind": "p",
+    "before": "Energy Eater (Su): As an immediate action, attempt to absorb one incoming spell or SLA targeting only her. Caster level check (DC 11 + spell level). On success, spell is negated and she gains 1 spell point per spell level absorbed.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 248,
+    "kind": "p",
+    "before": "Extended Palate (Ex): Chi Drain Talons work against constructs (temp HP) and outsiders (spell points). Prerequisite: Chi Drain Talons.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 249,
+    "kind": "p",
+    "before": "Extra Maneuver (Ex): Learn one additional maneuver from any accessible discipline. May be taken multiple times.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 250,
+    "kind": "p",
+    "before": "Extra Discipline (Ex): Gain access to one additional Path of War discipline. May be taken once.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 251,
+    "kind": "p",
+    "before": "Empress of Seals (Su): Constant death ward; attacks ignore DR and SR.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 252,
+    "kind": "h",
+    "before": "Kitsune",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 253,
+    "kind": "p",
+    "before": "Inspired by Tama no Mai from Onmyoji and Kiriko from Overwatch.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 254,
+    "kind": "p",
+    "before": "Eyecandy (Ex): As companion talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 255,
+    "kind": "p",
+    "before": "Fox Flame (Su): As a standard action, launches spectral fox fire bolt within 60 ft. Ranged touch attack dealing 1d6 fire damage per two class levels (max 10d6). Ignores non-magical fire resistance and immunity.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 256,
+    "kind": "p",
+    "before": "Shikigami User (Su): Summons a spectral fox shikigami orbiting her. Grants +2 on Perception and Sense Motive. May deliver touch spells on her behalf as a standard action. Has HP equal to class level; regenerates after 1 minute if destroyed.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 257,
+    "kind": "p",
+    "before": "Magi-Change (Su): Standard weapon transformation form.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 258,
+    "kind": "p",
+    "before": "Magi-Change Armor (Su): Standard armor transformation form.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 259,
+    "kind": "p",
+    "before": "Slotted Magi-Change (Su): As companion talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 260,
+    "kind": "p",
+    "before": "Channel Pool (Su): As Succubus brand talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 261,
+    "kind": "p",
+    "before": "Sisterhood of Master (Ex): As companion talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 262,
+    "kind": "p",
+    "before": "Initiate Spells (Sp): Gains detect thoughts, charm person, and dancing lights as SLAs, each usable 3 + Cha modifier times per day.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 263,
+    "kind": "p",
+    "before": "Crest of Magister (Ex): +4 on Spellcraft and Use Magic Device. May identify magical effects and items as a free action.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 264,
+    "kind": "p",
+    "before": "Thousand Faces (Su): Assumes the form of any humanoid seen as per alter self, maintained indefinitely, switched as a standard action. At 10th level functions as polymorph.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 265,
+    "kind": "p",
+    "before": "Sneaky Fox (Ex): +4 on Stealth and Bluff. May make Stealth checks while observed without penalty once per encounter.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 266,
+    "kind": "p",
+    "before": "Courtly Secrets (Ex): +4 on Diplomacy and Sense Motive. May always take 10 on these checks even under stress.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 267,
+    "kind": "p",
+    "before": "Let the Kitsune Guide You (Su): As a standard action, teleports to an ally within 60 ft, removing one negative condition from that ally and granting all allies within 15 ft a +2 sacred bonus on attack rolls and saves for 1 round per class level. Kiriko's ultimate. Usable once per day per 5 class levels.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 268,
+    "kind": "p",
+    "before": "Grace (Ex): As companion talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 269,
+    "kind": "p",
+    "before": "Tail Power (Su): Gains one additional fox tail per 4 class levels (max 5). Each tail grants +1 on all saves and +1 on caster level checks.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 270,
+    "kind": "p",
+    "before": "Talismonger (Ex): Crafts fox spirit talismans during downtime. Each functions as a one-use spell trigger item of any spell of 3rd level or lower from Shaman or Witch list. Crafts Cha modifier talismans per day at no gold cost.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 271,
+    "kind": "h",
+    "before": "Oni",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 272,
+    "kind": "p",
+    "before": "Inspired by classic Japanese oni mythology.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 273,
+    "kind": "p",
+    "before": "Master's Right Hand (Ex): As Banshee brand talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 274,
+    "kind": "p",
+    "before": "Magi-Change (Su): Standard weapon transformation form.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 275,
+    "kind": "p",
+    "before": "Magi-Change Armor (Su): Standard armor transformation form.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 276,
+    "kind": "p",
+    "before": "Shikigami User (Su): As Kitsune brand talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 277,
+    "kind": "p",
+    "before": "Bodyguard (Ex): Gains the Bodyguard feat as a bonus feat.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 278,
+    "kind": "p",
+    "before": "Initiate Magic (Sp): As companion talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 279,
+    "kind": "p",
+    "before": "Crest (Ex): As companion talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 280,
+    "kind": "p",
+    "before": "Oni Flame (Su): As a standard action, launches crackling blue-black oni fire bolt within 60 ft. Ranged touch attack dealing 1d6 fire damage per two class levels (max 10d6). Cannot be extinguished by mundane means; persists 1 round dealing 1d6 fire damage until target succeeds on a Reflex save.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 281,
+    "kind": "p",
+    "before": "Thousand Faces (Su): As Kitsune brand talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 282,
+    "kind": "p",
+    "before": "Cultivation (Ex): Flexible ability score improvements.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 283,
+    "kind": "p",
+    "before": "Oni Sphere Access (Su): [PLACEHOLDER — TBD]",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 284,
+    "kind": "p",
+    "before": "Master of Arms (Ex): Gains proficiency with all martial and exotic weapons. Never takes nonproficiency penalties. Adds Charisma modifier to attack rolls with unfamiliar weapons.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 285,
+    "kind": "h",
+    "before": "Zinogre",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 286,
+    "kind": "p",
+    "before": "Inspired by the Zinogre from Monster Hunter. Beast Monarch brand.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 287,
+    "kind": "p",
+    "before": "Beast Cannon (Su): As Felyn brand talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 288,
+    "kind": "p",
+    "before": "Lightning Empowerment (Su): All melee attacks deal +1d6 electricity damage. At 10th level increases to 2d6 and attacks ignore electricity resistance.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 289,
+    "kind": "p",
+    "before": "Dragon Hunter (Ex): +2 bonus on attack and damage rolls against dragon type creatures. At 10th level increases to +4.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 290,
+    "kind": "p",
+    "before": "Right Hand Doggo (Ex): Gains a loyal Zinogre pup companion as per Animal Companion using class level as Druid level. Always a wolf type with electricity subtype, dealing +1d6 electricity on bite attacks.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 291,
+    "kind": "p",
+    "before": "Magi-Change (Su): Standard weapon transformation form.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 292,
+    "kind": "p",
+    "before": "Magi-Change Armor (Su): Standard armor transformation form.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 293,
+    "kind": "p",
+    "before": "Lightning Magi-Change (Su): As companion talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 294,
+    "kind": "p",
+    "before": "Fast Magi-Change (Su): As companion talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 295,
+    "kind": "p",
+    "before": "Slotted Magi-Change (Su): As companion talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 296,
+    "kind": "p",
+    "before": "Moon Fang (Su): Launches a crescent of freezing lunar energy (Garurumon reference) as a standard action. 60-ft line dealing 1d8 cold damage per two class levels (max 10d8). Fort save or staggered 1 round.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 297,
+    "kind": "p",
+    "before": "Howl Cannon (Su): 30-ft cone as a standard action dealing 1d6 electricity per two class levels (max 10d6). Reflex half. Failed save: deafened 1d4 rounds.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 298,
+    "kind": "p",
+    "before": "Storm Lord (Su): Permanent 10-ft lightning aura. Enemies entering or starting their turn in the aura take 1d6 electricity damage. All electricity damage ignores resistance. She gains immunity to electricity.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 299,
+    "kind": "p",
+    "before": "Dragon Seal (Su): As a swift action, marks a draconic foe. Target takes -2 on saves vs. her abilities and she deals +2d6 electricity against it. Lasts Cha modifier rounds. Only one seal at a time.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 300,
+    "kind": "p",
+    "before": "Mount (Ex): May ride Right Hand Doggo into battle. While mounted: +2 attack rolls, mount gains +10 land speed, all electricity abilities deal +1d6 electricity damage. Prerequisite: Right Hand Doggo.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 301,
+    "kind": "h",
+    "before": "Mermaid",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 302,
+    "kind": "p",
+    "before": "Lingering (Su): Brand effects persist 1 additional round after dismissal.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 303,
+    "kind": "p",
+    "before": "Greater (Ex): One chosen brand ability functions as if 2 levels higher.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 304,
+    "kind": "p",
+    "before": "Fast (Ex): +10 ft speed. May be taken multiple times.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 305,
+    "kind": "p",
+    "before": "Lightning (Ex): Extra attack on a charge. May be taken twice.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 306,
+    "kind": "p",
+    "before": "Slotted Magi-Change (Su): As companion talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 307,
+    "kind": "p",
+    "before": "Ethereal Sea (Su): As a swift action, summons a 30-ft radius (+ 5 ft per class level) mystical water domain lasting 1 + Cha modifier rounds. Usable once per day per 5 class levels. While active: moves freely as if swimming on land; may use water-requiring abilities anywhere; summons 1 spectral tentacle per 2 class levels (min 1) as spiritual weapons dealing 1d4 + Cha mod force damage each, directed as a move action.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 308,
+    "kind": "p",
+    "before": "Hypnotic Song (Su): As a standard action, all creatures within 30 ft make Will save (DC 10 + half level + Cha) or be fascinated for Cha modifier rounds. Immune on success for 24 hours. Sonic mind-affecting charm.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 309,
+    "kind": "p",
+    "before": "Initiate Magic (Sp): As companion talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 310,
+    "kind": "p",
+    "before": "Crest (Ex): As companion talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 311,
+    "kind": "p",
+    "before": "Sisterhood of Master (Ex): As companion talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 312,
+    "kind": "p",
+    "before": "Magi-Change Armor (Su): Standard armor transformation form.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 313,
+    "kind": "p",
+    "before": "Magi-Change (Su): Standard weapon transformation form.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 314,
+    "kind": "p",
+    "before": "Stormweaver (Su): Gains the Storm chakra unlock from Akashic Mysteries. May bind veils to Storm chakra slot. Gains swim speed equal to base land speed.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 315,
+    "kind": "p",
+    "before": "Akashic Understanding (Su): As Infernal Art of same name.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 316,
+    "kind": "p",
+    "before": "Cultivation (Ex): Flexible ability score improvements.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 317,
+    "kind": "p",
+    "before": "Grace (Ex): As companion talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 318,
+    "kind": "p",
+    "before": "Enkindled Essence (Su): Gains essence pool equal to class level + Cha modifier. Stacks with other essence pools.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 319,
+    "kind": "h",
+    "before": "Pixie",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 320,
+    "kind": "p",
+    "before": "Inspired by Tinkerbell from Peter Pan.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 321,
+    "kind": "p",
+    "before": "Pixie Dust (Su): As a standard action, grants one willing creature fly speed equal to their land speed with good maneuverability for Cha modifier hours. Usable Cha modifier times per day.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 322,
+    "kind": "p",
+    "before": "Illumination (Su): Generates warm magical glow in 20-ft radius as a free action (counts as sunlight). As a standard action, may focus the light: target within 30 ft makes Fort save or be blinded for 1 round.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 323,
+    "kind": "p",
+    "before": "Little Tinker (Ex): +4 on Craft, Disable Device, and Sleight of Hand. May craft magical items in half normal time.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 324,
+    "kind": "p",
+    "before": "Companion of Mischief (Ex): As Companion of Lonely.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 325,
+    "kind": "p",
+    "before": "Grace (Ex): As companion talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 326,
+    "kind": "p",
+    "before": "Cultivation (Ex): Flexible ability score improvements.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 327,
+    "kind": "p",
+    "before": "Channel Pool (Su): As Succubus brand talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 328,
+    "kind": "p",
+    "before": "Inherited Magic (Sp): Gains dancing lights, entangle, and lesser confusion as SLAs, each usable 3 + Cha modifier times per day.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 329,
+    "kind": "p",
+    "before": "Crest (Ex): As companion talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 330,
+    "kind": "p",
+    "before": "Wish (Sp): Once per day, grants a single wish as per limited wish using class level as caster level.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 331,
+    "kind": "p",
+    "before": "Fey-Link (Su): Gains the Fey-Link ability from the Fallen Fey sphere as a bonus sphere talent. Also gains the Fallen Fey sphere if she does not already possess it.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 332,
+    "kind": "p",
+    "before": "Awareness (Ex): As Succubus brand talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 333,
+    "kind": "p",
+    "before": "Sisterhood of Master (Ex): As companion talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 334,
+    "kind": "p",
+    "before": "Woodland Sprite (Ex): +4 on Stealth and Survival in natural environments. Leaves no tracks unless she chooses to.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 335,
+    "kind": "p",
+    "before": "Magi-Change (Su): Standard weapon transformation form.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 336,
+    "kind": "p",
+    "before": "Magi-Change Armor (Su): Standard armor transformation form.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 337,
+    "kind": "p",
+    "before": "Slotted Magi-Change (Su): As companion talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 338,
+    "kind": "p",
+    "before": "Lingering (Su): Brand effects persist 1 additional round.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 339,
+    "kind": "p",
+    "before": "Fast (Ex): +10 ft speed. May be taken multiple times.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 340,
+    "kind": "p",
+    "before": "Lightning (Ex): Extra attack on a charge. May be taken twice.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 341,
+    "kind": "p",
+    "before": "Greater (Ex): One brand ability functions as if 2 levels higher.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 342,
+    "kind": "h",
+    "before": "Gargoyle",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 343,
+    "kind": "p",
+    "before": "Full rules text as written in original document. All talents complete.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 344,
+    "kind": "p",
+    "before": "Alarm (Ex): +2 initiative and +2 Perception to avoid surprise.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 345,
+    "kind": "p",
+    "before": "Magi-Change: Gargoyle Arms (Su): Transforms into a melee weapon. Enhancement bonus equal to half HD (min +1, max +5). Counts as adamantine for overcoming hardness. Lasts HD rounds or until reverted.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 346,
+    "kind": "p",
+    "before": "Magi-Change: Gargoyle Armor (Su): Transforms into light, medium, or heavy armor. Enhancement bonus to AC equal to half HD (min +1, max +5). DR 2/-. +2 saves vs. forced movement.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 347,
+    "kind": "p",
+    "before": "Lingering (Su): Brand effects persist 1 additional round.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 348,
+    "kind": "p",
+    "before": "Greater (Ex): One brand ability functions as if 2 levels higher.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 349,
+    "kind": "p",
+    "before": "Fast (Ex): +10 ft speed. May be taken multiple times.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 350,
+    "kind": "p",
+    "before": "Lightning (Ex): Extra attack on a charge. May be taken twice.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 351,
+    "kind": "p",
+    "before": "Petrification (Su): Once per day per 5 levels, force creature within 30 ft to attempt Fort save or be slowed 1 round/level. At 15th level, petrifies on failed save (Fort partial).",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 352,
+    "kind": "p",
+    "before": "Fast Healing (Ex): Gain fast healing 1. May be taken multiple times.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 353,
+    "kind": "p",
+    "before": "Perfect Defense (Su): Once every 1d4 rounds, as an immediate action, harden into immovable stone. Make opposed check (1d20 + NM level + Con) against attacker's roll. Win: take no damage. Staggered until next turn. ",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 354,
+    "kind": "p",
+    "before": "Stonehide (Ex): +2 DR and resistance 5 to two chosen damage types. May be taken multiple times.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 355,
+    "kind": "p",
+    "before": "Adamant Body (Ex): +3 DR; bypassed only by adamantine or epic weapons. May be taken multiple times.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 356,
+    "kind": "p",
+    "before": "Anchor Form (Ex): Cannot be moved by wind or telekinesis without Str check vs. DC 15 + level.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 357,
+    "kind": "p",
+    "before": "Earthen Momentum (Ex): Charging ignores difficult terrain; fly speed +10 ft. May be taken multiple times.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 358,
+    "kind": "p",
+    "before": "Stone Glide (Ex): Improve flight maneuverability by one step. May be taken multiple times.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 359,
+    "kind": "p",
+    "before": "Horned Smash (Ex): Gain a gore attack (1d8) as secondary natural weapon.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 360,
+    "kind": "p",
+    "before": "Pulverize (Ex): On a crit with natural weapon, target makes Fort save or be staggered 1 round.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 361,
+    "kind": "p",
+    "before": "Crushing Dive (Ex): On a charge from above, deal +1d6 per 10 ft fallen. May be taken twice.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 362,
+    "kind": "p",
+    "before": "Stone Sentinel (Ex): While motionless, +10 Stealth and +4 Perception.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 363,
+    "kind": "p",
+    "before": "Perfect Defense Mastery (Su): Once per encounter, halve the cooldown on Perfect Defense (minimum 1 round).",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 364,
+    "kind": "h",
+    "before": "Jorugumo",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 365,
+    "kind": "p",
+    "before": "Inspired by Elise from League of Legends — the Spider Queen.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 366,
+    "kind": "p",
+    "before": "Web (Su): Ranged attack within 30 ft as a standard action. Reflex save or entangled for Cha modifier rounds. At 10th level, may target 15-ft radius burst.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 367,
+    "kind": "p",
+    "before": "Dark Allure (Su): As a standard action, compel one creature within 30 ft to move toward her (as compel hostility). Will save or spend next turn moving adjacent to her.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 368,
+    "kind": "p",
+    "before": "Eyecandy (Ex): As companion talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 369,
+    "kind": "p",
+    "before": "Magi-Change (Su): Standard weapon transformation form.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 370,
+    "kind": "p",
+    "before": "Magi-Change Armor (Su): Standard armor transformation form.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 371,
+    "kind": "p",
+    "before": "Slotted Magi-Change (Su): As companion talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 372,
+    "kind": "p",
+    "before": "Poison (Su): Bite/claw attacks carry venom. Fort save or 1d4 Con damage, repeating each round for 6 rounds.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 373,
+    "kind": "p",
+    "before": "Crest of Spider Queen (Su): Summons 1 spiderling per 2 class levels (max 10) as a standard action. Each has 1 HD, deals 1d4 poison on bite, acts on her initiative. Persists for Cha modifier rounds.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 374,
+    "kind": "p",
+    "before": "Initiate Magic (Sp): As companion talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 375,
+    "kind": "p",
+    "before": "Weaver's Touch (Su): Moves freely through webbed areas. Senses any creature touching her webs within 60 ft. May reshape existing webbing as a move action to create difficult terrain in a 15-ft radius.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 376,
+    "kind": "p",
+    "before": "Grace (Ex): As companion talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 377,
+    "kind": "p",
+    "before": "Awareness (Ex): As Succubus brand talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 378,
+    "kind": "p",
+    "before": "Tremor Sense (Ex): Gains tremorsense 30 feet.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 379,
+    "kind": "p",
+    "before": "Cultivation (Ex): Flexible ability score improvements.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 380,
+    "kind": "p",
+    "before": "Sisterhood of Master (Ex): As companion talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 381,
+    "kind": "h",
+    "before": "Specter",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 382,
+    "kind": "p",
+    "before": "Inspired by Krom from Bofuri and Gray from Type-Moon (Lord El-Melloi Case Files).",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 383,
+    "kind": "p",
+    "before": "Shroud (Su): As Jiangshi brand talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 384,
+    "kind": "p",
+    "before": "Magi-Change (Su): Standard weapon transformation form.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 385,
+    "kind": "p",
+    "before": "Magi-Change Armor (Su): Standard armor transformation form.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 386,
+    "kind": "p",
+    "before": "Slotted Magi-Change (Su): As companion talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 387,
+    "kind": "p",
+    "before": "Phantasmal Spear (Su): As Banshee brand talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 388,
+    "kind": "p",
+    "before": "Dark Lieutenant (Su): As Banshee brand talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 389,
+    "kind": "p",
+    "before": "Vampire Shroud (Su): As Jiangshi brand talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 390,
+    "kind": "p",
+    "before": "Focusing Shroud (Su): As Jiangshi brand talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 391,
+    "kind": "p",
+    "before": "Master's Right Hand (Ex): As Banshee brand talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 392,
+    "kind": "p",
+    "before": "Chain Slam (Su): As Angeloid brand talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 393,
+    "kind": "p",
+    "before": "Gravekeeper Rites (Su): As Jiangshi brand talent. A nod to Gray's power to dismantle any mystery.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 394,
+    "kind": "p",
+    "before": "Crest (Ex): As companion talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 395,
+    "kind": "p",
+    "before": "Cultivation (Ex): Flexible ability score improvements.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 396,
+    "kind": "p",
+    "before": "Awareness (Ex): As Succubus brand talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 397,
+    "kind": "h",
+    "before": "Celebremancer",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 398,
+    "kind": "p",
+    "before": "Inspired by illithid/mind flayer mythology. Psionic brand using Dreamscarred Press Psionics system.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 399,
+    "kind": "p",
+    "before": "Magi-Change (Su): Standard weapon transformation form.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 400,
+    "kind": "p",
+    "before": "Magi-Change Armor (Su): Standard armor transformation form.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 401,
+    "kind": "p",
+    "before": "Slotted Magi-Change (Su): As companion talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 402,
+    "kind": "p",
+    "before": "Deep Focus (Ex): Gains the Deep Focus feat from Dreamscarred Press as a bonus feat.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 403,
+    "kind": "p",
+    "before": "Initiate Powers (Sp): As Initiate Magic but draws from the Psion/Wilder power list. Grants three psionic powers of 3rd level or lower, each usable 3 + Cha modifier times per day.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 404,
+    "kind": "p",
+    "before": "Psycast (Su): Gains access to the Psionics system (Dreamscarred Press). Power points equal to class level + Cha modifier. Manifester level equals class level. Powers known equal to brand talent column.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 405,
+    "kind": "p",
+    "before": "Brain Eater (Su): After reducing a creature to 0 HP with a tentacle or psionic power, may consume its brain as a full-round action, gaining one of its known skills or languages permanently.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 406,
+    "kind": "p",
+    "before": "Extra Power Known (Su): Learn one additional psionic power of any level you can manifest. May be taken multiple times.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 407,
+    "kind": "p",
+    "before": "Bonus Power Points (Su): Gain 2 additional PP. May be taken multiple times.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 408,
+    "kind": "p",
+    "before": "Tentacle Lash (Su): When expending martial focus, make a tentacle melee attack as a free action (1d4 + Cha mod, counts as magic). At 10th level, may grapple as if using Grab.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 409,
+    "kind": "p",
+    "before": "Mind Blast (Su): As a standard action, expend martial focus for a 15-ft cone of stunning psychic force (+5 ft/5 HD). Will save (DC 10 + half HD + Cha) or stunned 1 round.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 410,
+    "kind": "p",
+    "before": "Cerebral Siphon (Su): When reducing a creature to 0 HP with a psionic power, regain 1d6 PP. Increases to 2d6 at 10th level.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 411,
+    "kind": "p",
+    "before": "Psychic Domination (Su): When expending martial focus, add a compulsion rider to a mind-affecting power. On failed save, target is dazed 1 round in addition to normal effect.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 412,
+    "kind": "p",
+    "before": "Memory Feast (Su): After slaying a foe with a psionic power or tentacle lash, expend martial focus to regain one expended maneuver or power slot of up to 3rd level.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 413,
+    "kind": "p",
+    "before": "Illithid Resilience (Su): +2 on Will saves vs. mind-affecting. At 12th level, immune to charm and dominate effects.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 414,
+    "kind": "p",
+    "before": "Subconscious Echo (Su): When expending martial focus, gain concealment (20%) until start of next turn.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 415,
+    "kind": "p",
+    "before": "Dominant Gaze (Su): As a move action, expend martial focus to force a creature within 30 ft to save or be shaken 1 round. Mind-affecting gaze attack.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 416,
+    "kind": "p",
+    "before": "Synaptic Overload (Su): When manifesting a damaging power, expend martial focus to add +1d6 force damage/5 HD.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 417,
+    "kind": "p",
+    "before": "Devour Thoughts (Su): On successful tentacle grapple, expend martial focus to deal 1d4 Int damage. At 12th level: 1d6.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 418,
+    "kind": "p",
+    "before": "Mental Bastion (Su): +2 AC and Reflex saves while psionically manifesting, until start of next turn when martial focus expended.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 419,
+    "kind": "p",
+    "before": "Thrall Echo (Su): When dominating or compelling a creature, expend martial focus to make them echo your last move or standard action.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 420,
+    "kind": "p",
+    "before": "Ego Flay (Su): When expending martial focus on a damaging power, impose -2 on target's Will saves until end of next turn.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 421,
+    "kind": "p",
+    "before": "Mind Hunger (Su): When expending martial focus, gain temp HP equal to Cha modifier (min 1). Lasts until start of next turn.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 422,
+    "kind": "p",
+    "before": "Psychic Shatter (Su): When successfully affecting a creature with a mind- affecting power, expend martial focus to stagger them 1 round.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 423,
+    "kind": "p",
+    "before": "Brain Feast (Su): If killing a creature with tentacle lash or psionic power, expend martial focus to gain +2 insight to attack rolls, AC, and saves for 1 minute.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 424,
+    "kind": "p",
+    "before": "Neural Eclipse (Su): Once per day, when manifesting a power of 6th level or higher, expend martial focus to maximize all dice rolls for that manifestation.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 425,
+    "kind": "h",
+    "before": "Menreiki",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 426,
+    "kind": "p",
+    "before": "Inspired by Hata no Kokoro from Touhou Project.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 427,
+    "kind": "p",
+    "before": "Mask Mastery (Ex): Gains a collection of emotional masks. Each grants a different emotional bonus when worn: Happy (+2 Diplomacy), Sad (+2 Sense Motive), Angry (+2 Intimidate), Fearful (+2 Stealth). Switching masks is a swift action.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 428,
+    "kind": "p",
+    "before": "Emotional Pulse (Su): As a standard action, releases a wave of raw emotion in a 30-ft radius. Will save or be affected by a random emotion — frightened, fascinated, enraged, or sickened for 1d4 rounds.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 429,
+    "kind": "p",
+    "before": "Emotional Ward (Su): Gains immunity to fear, charm, and emotion-based effects. +4 on saves vs. mind-affecting.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 430,
+    "kind": "p",
+    "before": "Mask Swap (Su): Hurls a mask at a target within 30 ft as a swift action. Will save or gain the emotional condition associated with the thrown mask for 1d4 rounds.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 431,
+    "kind": "p",
+    "before": "Fast (Ex): +10 ft speed. May be taken multiple times.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 432,
+    "kind": "p",
+    "before": "Lightning (Ex): Extra attack on a charge. May be taken twice.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 433,
+    "kind": "p",
+    "before": "Phantasmal Projection (Su): As a standard action, one target within 60 ft makes Will save or be paralyzed with fear for 1 round. Success: shaken instead.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 434,
+    "kind": "p",
+    "before": "Magi-Change (Su): Standard weapon transformation form.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 435,
+    "kind": "p",
+    "before": "Magi-Change: Mask of Wonders (Su): Companion transforms into a magnificent theatrical mask. While worn: +4 Perform checks, emotion-based abilities activate as swift actions, and adds Cha modifier as bonus on saves vs. mind-affecting.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 436,
+    "kind": "p",
+    "before": "Slotted Magi-Change (Su): As companion talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 437,
+    "kind": "p",
+    "before": "Cultivation (Ex): Flexible ability score improvements.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 438,
+    "kind": "p",
+    "before": "Awareness (Ex): As Succubus brand talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 439,
+    "kind": "p",
+    "before": "Masked Dancer (Ex): Perform (Dance) becomes a class skill. May use Perform (Dance) bonus in place of CMD vs. trip and grapple. While performing, generates fascination aura in 15-ft radius (Will save to resist).",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 440,
+    "kind": "p",
+    "before": "Hypnotic Gaze (Su): As Lamia brand talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 441,
+    "kind": "p",
+    "before": "Possession (Su): As a standard action, hurls a mask onto a target within 30 ft. Will save or fall under her control as per dominate person for Cha modifier rounds. Mask visibly appears on target's face. Only one target possessed at a time.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 442,
+    "kind": "p",
+    "before": "Hunting Presence (Su): As a swift action, designates one target within 60 ft. Target takes -2 on saves vs. her abilities and cannot benefit from concealment or invisibility against her for Cha modifier rounds.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 443,
+    "kind": "h",
+    "before": "Asura",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 444,
+    "kind": "p",
+    "before": "Theme: Wrathful fallen celestials embodying divine fury, undeath, and relentless vengeance. Uses Martial Brand (Path of War) progression table. Favored Disciplines: Obsidian Dawn, Blood Raven, Crimson Fang. Magi-Change Forms: Bladed Arms (twin divine-wrath blades, paired weapons, half damage as negative energy) / Crown of Ashes (necrotic halo armor, AC bonus, aura of despair -1 saves within 10 ft).",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 445,
+    "kind": "label",
+    "before": "Talent text below is recovered from the earlier supplied PDF. The integrated revision governs identity and progression; incomplete source entries remain unresolved.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 446,
+    "kind": "h",
+    "before": "Wrathful Blow (Ex)",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 447,
+    "kind": "p",
+    "before": "Add +1d6 damage when using Power Attack; increases by +1d6 at 8th and 16th level.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 448,
+    "kind": "h",
+    "before": "Furious Rend (Ex)",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 449,
+    "kind": "p",
+    "before": "When both weapons strike the same target in one round, deal an extra 1d8 damage.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 450,
+    "kind": "h",
+    "before": "Relentless Advance (Ex)",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 451,
+    "kind": "p",
+    "before": "Gain +10 ft speed when moving toward an enemy you’ve damaged.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 452,
+    "kind": "h",
+    "before": "Ashen Strike (Su)",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 453,
+    "kind": "p",
+    "before": "Your weapon attacks deal +1d6 fire or negative energy (chosen each day).",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 454,
+    "kind": "h",
+    "before": "Grievous Critical (Ex)",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 455,
+    "kind": "p",
+    "before": "When confirming a critical, target also takes –2 to AC for 1 round.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 456,
+    "kind": "h",
+    "before": "Mark of Vengeance (Su)",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 457,
+    "kind": "p",
+    "before": "As a swift action, mark a foe; your attacks against them deal +2 damage for Cha mod rounds.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 458,
+    "kind": "h",
+    "before": "Blasphemous Howl (Su)",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 459,
+    "kind": "p",
+    "before": "Once per encounter, roar in a 20-ft burst; enemies save or be shaken for 1d4 rounds.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 460,
+    "kind": "h",
+    "before": "Curse of Weakness (Su)",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 461,
+    "kind": "p",
+    "before": "Once per day per 5 HD, impose –2 Str penalty (Will negates).",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 462,
+    "kind": "h",
+    "before": "Curse of Fate (Su)",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 463,
+    "kind": "p",
+    "before": "Once/day, force a reroll of a d20 roll; target must take the worse result.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 464,
+    "kind": "h",
+    "before": "Aura of Wrath (Su)",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 465,
+    "kind": "p",
+    "before": "Enemies within 10 ft take –1 to attack rolls; improves to –2 at 12th HD.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 466,
+    "kind": "h",
+    "before": "Deathflame (Su)",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 467,
+    "kind": "p",
+    "before": "Your melee strikes may deal half fire, half negative energy damage.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 468,
+    "kind": "h",
+    "before": "Corpse Explosion (Su)",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 469,
+    "kind": "p",
+    "before": "Once/day per 5 HD, cause a slain foe to explode in a 10-ft burst (1d6/2 HD negative energy).",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 470,
+    "kind": "h",
+    "before": "Soul Rend (Su)",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 471,
+    "kind": "p",
+    "before": "On a crit, target takes 1d4 Cha damage (Will halves).",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 472,
+    "kind": "h",
+    "before": "Profane Healing (Su)",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 473,
+    "kind": "p",
+    "before": "When you deal negative energy damage, heal 1 HP per die rolled.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 474,
+    "kind": "h",
+    "before": "Phantom Chains (Su)",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 475,
+    "kind": "p",
+    "before": "As a standard action, conjure spectral chains to entangle a target for 1 round (Reflex negates).",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 476,
+    "kind": "h",
+    "before": "Unholy Resilience (Su)",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 477,
+    "kind": "p",
+    "before": "Gain DR 2/good; improves by +2 every 6 HD.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 478,
+    "kind": "h",
+    "before": "Blighted Flesh (Su)",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 479,
+    "kind": "p",
+    "before": "Gain resistance 5 to fire and negative energy; improves to 10 at 10 HD.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 480,
+    "kind": "h",
+    "before": "Eyes of Judgment (Su)",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 481,
+    "kind": "p",
+    "before": "Constant see invisibility; at 12th HD, add true seeing 1/day.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 482,
+    "kind": "h",
+    "before": "Defiant Will (Ex)",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 483,
+    "kind": "p",
+    "before": "+2 bonus to saves vs. divine or holy magic.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 484,
+    "kind": "h",
+    "before": "Avatar of Fury (Su)",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 485,
+    "kind": "p",
+    "before": "Once/day, enter a fury for 1 minute: +2 Str, +2 Con, +2 Will saves.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 486,
+    "kind": "h",
+    "before": "Dark Commander (Ex)",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 487,
+    "kind": "p",
+    "before": "Allies within 30 ft gain +1 morale bonus to damage rolls when you attack.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 488,
+    "kind": "h",
+    "before": "Fallen Halo (Su)",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 489,
+    "kind": "p",
+    "before": "Glow with necrotic radiance; sheds light (20 ft) and gives you +2 Intimidate.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 490,
+    "kind": "h",
+    "before": "Rebuke Soul (Su)",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 491,
+    "kind": "p",
+    "before": "Once/day per 5 HD, as a swift action force an enemy within 30 ft to save or be dazed 1 round.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 492,
+    "kind": "h",
+    "before": "Undying Rage (Su)",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 493,
+    "kind": "p",
+    "before": "Once/day, when reduced below 0 HP, continue fighting for 1 round before falling unconscious.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 494,
+    "kind": "h",
+    "before": "Crown of Ashes (Su)",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 495,
+    "kind": "p",
+    "before": "While in armor Magi-Change form, you radiate a 10-ft aura that deals 1 damage/HD as negative energy to living creatures at the start of your turn.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 496,
+    "kind": "h",
+    "before": "Jaguar Sun",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 497,
+    "kind": "p",
+    "before": "Theme: Devouring power of the Jaguar of the Sun — blood, sacrifice, and endless war. Uses Martial Brand (Path of War) progression table. Favored Disciplines: Obsidian Dawn, Blood Raven, Crimson Fang. Sphere Package: Destruction, Blood, Fate. Magi-Change Forms: Heart-Ripper Claws (dual jaguar talons, bleed on crits, discipline weapons) / Sun-Pelt (jaguar hide armor, fire resistance, AC, radiant heat when struck).",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 498,
+    "kind": "label",
+    "before": "Talent text below is recovered from the earlier supplied PDF. The integrated revision governs identity and progression; incomplete source entries remain unresolved.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 499,
+    "kind": "h",
+    "before": "Blood Feast (Ex)",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 500,
+    "kind": "p",
+    "before": "When you reduce a foe to 0 HP, regain 1 maneuver.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 501,
+    "kind": "h",
+    "before": "Heart-Ripper (Su)",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 502,
+    "kind": "p",
+    "before": "Once per encounter, on a crit, you may tear out the foe’s essence: heal IL HP and gain +2 attack for 1 round.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 503,
+    "kind": "h",
+    "before": "Sacrificial Surge (Ex)",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 504,
+    "kind": "p",
+    "before": "You may deal 1d6 damage to yourself as a swift action to recover 1 expended maneuver.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 505,
+    "kind": "h",
+    "before": "Cycle of Blood (Su)",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 506,
+    "kind": "p",
+    "before": "Killing an enemy restores 1 spell point or 1 essence.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 507,
+    "kind": "h",
+    "before": "Jaguar Pounce (Ex)",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 508,
+    "kind": "p",
+    "before": "Gain +10 ft movement and +2 to attack/damage when charging a foe at half HP or lower.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 509,
+    "kind": "h",
+    "before": "Bleed & Predation",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 510,
+    "kind": "h",
+    "before": "Crimson Fangs (Ex)",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 511,
+    "kind": "p",
+    "before": "Your natural or brand claws inflict bleed 1d4; stacks on multiple hits.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 512,
+    "kind": "h",
+    "before": "Predator’s Rend (Ex)",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 513,
+    "kind": "p",
+    "before": "If both claws hit, deal +1d6 damage and force Fort save or staggered 1 round.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 514,
+    "kind": "h",
+    "before": "Blood in the Water (Ex)",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 515,
+    "kind": "p",
+    "before": "+2 attack vs. bleeding foes; at 12 HD, becomes +4.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 516,
+    "kind": "h",
+    "before": "Sanguine Recovery (Su)",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 517,
+    "kind": "p",
+    "before": "Whenever you deal bleed damage, heal 1 HP per round it ticks.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 518,
+    "kind": "h",
+    "before": "Jaguar Mask (Su)",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 519,
+    "kind": "p",
+    "before": "Gain a glowing jaguar visage; +2 Intimidate, +2 vs fear.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 520,
+    "kind": "h",
+    "before": "Sun Power",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 521,
+    "kind": "h",
+    "before": "Sunflare Strike (Su)",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 522,
+    "kind": "p",
+    "before": "Once per encounter, add +1d6 fire/positive energy per 3 IL to a strike.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 523,
+    "kind": "h",
+    "before": "Solar Roar (Su)",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 524,
+    "kind": "p",
+    "before": "As a swift action, roar in a 20-ft burst; enemies must save or be dazzled/blinded 1 rd.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 525,
+    "kind": "h",
+    "before": "Radiant Predator (Su)",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 526,
+    "kind": "p",
+    "before": "While in sunlight, gain +2 AC and +2 to saves vs. necrotic/negative energy.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 527,
+    "kind": "h",
+    "before": "Day’s Fury (Su)",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 528,
+    "kind": "p",
+    "before": "Once/day, enter a fury for 1 min: +2 Str, +2 Con, +2 Will; costs 1 spell point or essence to activate.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 529,
+    "kind": "h",
+    "before": "Sun’s Judgment (Su)",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 530,
+    "kind": "p",
+    "before": "Enemies reduced to 0 HP by you burn to ash; prevents raise dead unless Miracle/Wish.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 531,
+    "kind": "h",
+    "before": "Sacrificial Magic",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 532,
+    "kind": "h",
+    "before": "Bloodfire (Su)",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 533,
+    "kind": "p",
+    "before": "Spend 1 spell point when initiating a strike → add +1d6 fire/negative energy damage per 4 IL.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 534,
+    "kind": "h",
+    "before": "Sanguine Ward (Su)",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 535,
+    "kind": "p",
+    "before": "Sacrifice 5 HP as a swift action → gain +2 AC until your next turn.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 536,
+    "kind": "h",
+    "before": "Obsidian Teeth (Ex)",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 537,
+    "kind": "p",
+    "before": "Your claws count as adamantine for DR/hardness.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 538,
+    "kind": "h",
+    "before": "Flesh Offering (Su)",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 539,
+    "kind": "p",
+    "before": "When you damage yourself for an ability, gain +2 morale bonus to attack rolls for 1 round.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 540,
+    "kind": "h",
+    "before": "Jaguar Eclipse (Su)",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 541,
+    "kind": "p",
+    "before": "Once/day, create a 20-ft darkness zone for 1 round/IL; only you see through it.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 542,
+    "kind": "h",
+    "before": "Totemic & Mythic",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 543,
+    "kind": "h",
+    "before": "Totem Sun (Su)",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 544,
+    "kind": "p",
+    "before": "Manifest spectral jaguar totem; allies within 10 ft gain +1 attack.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 545,
+    "kind": "h",
+    "before": "Blood Chant (Ex)",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 546,
+    "kind": "p",
+    "before": "Gain +2 Perform (chant/dance); when you succeed, allies gain +2 vs. fear for 1 round.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 547,
+    "kind": "h",
+    "before": "Skull Throne (Su)",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 548,
+    "kind": "p",
+    "before": "Standing on a corpse square grants you +2 damage until you move.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 549,
+    "kind": "h",
+    "before": "Obsidian Fang Ritual (Su)",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 550,
+    "kind": "p",
+    "before": "Once/day, before combat, ritually scar yourself; for that fight, gain +2 natural armor and +2 damage, but take –2 Fort saves.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 551,
+    "kind": "h",
+    "before": "Sun Devourer (Su)",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 552,
+    "kind": "p",
+    "before": "Capstone talent — once/day, when you slay a foe with a strike, you may unleash a solar nova: 30-ft burst, 1d6 fire/positive energy per 2 IL, enemies Reflex half.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 553,
+    "kind": "h",
+    "before": "Rakshasa",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 554,
+    "kind": "p",
+    "before": "Uses Martial Brand (Path of War) progression table. Theme: Illusory shapeshifting predator with tiger claws and infernal magic.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 555,
+    "kind": "label",
+    "before": "Talent text below is recovered from the earlier supplied PDF. The integrated revision governs identity and progression; incomplete source entries remain unresolved.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 556,
+    "kind": "h",
+    "before": "Tiger’s Claws (Ex)",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 557,
+    "kind": "p",
+    "before": "Gain two claw attacks (1d6) as primary natural weapons.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 558,
+    "kind": "h",
+    "before": "Predator’s Pounce (Ex)",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 559,
+    "kind": "p",
+    "before": "You may make a full attack at the end of a charge when using claws.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 560,
+    "kind": "h",
+    "before": "Bloodied Strike (Ex)",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 561,
+    "kind": "p",
+    "before": "When you deal claw damage, target bleeds 1d4/round (stacking).",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 562,
+    "kind": "h",
+    "before": "Savage Rend (Ex)",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 563,
+    "kind": "p",
+    "before": "If both claws hit the same foe, deal +1d6 damage and force a trip attempt.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 564,
+    "kind": "h",
+    "before": "Crimson Fangs (Su)",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 565,
+    "kind": "p",
+    "before": "Your claws count as magical and evil for DR; at 10th level, also lawful.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 566,
+    "kind": "h",
+    "before": "Illusory Double (Su)",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 567,
+    "kind": "p",
+    "before": "As a swift action, create 1 mirror image; +1 image at 6th and every 4 levels.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 568,
+    "kind": "h",
+    "before": "False Face (Su)",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 569,
+    "kind": "p",
+    "before": "You can disguise self at will; at 10th level, this fools true seeing once/day.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 570,
+    "kind": "h",
+    "before": "Shifting Guise (Su)",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 571,
+    "kind": "p",
+    "before": "As a move action, assume the form of any humanoid you’ve seen (alter self).",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 572,
+    "kind": "h",
+    "before": "Shadow Stride (Su)",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 573,
+    "kind": "p",
+    "before": "Teleport 10 ft as a swift action, usable a number of times/day equal to Cha mod.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 574,
+    "kind": "h",
+    "before": "Phantasmal Terror (Su)",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 575,
+    "kind": "p",
+    "before": "Once/day per 4 HD, cast scare; at 12th HD, this becomes fear.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 576,
+    "kind": "h",
+    "before": "Rakshasa’s Curse (Su)",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 577,
+    "kind": "p",
+    "before": "Once/day, force a foe you hit to roll attacks/saves twice and take the worse for 1 round.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 578,
+    "kind": "h",
+    "before": "Hex of Weakness (Su)",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 579,
+    "kind": "p",
+    "before": "As a standard action, target creature takes –2 Str for 1 min (Will negates).",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 580,
+    "kind": "h",
+    "before": "Hex of Confusion (Su)",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 581,
+    "kind": "p",
+    "before": "As a standard action, target must save or be confused for 1 round.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 582,
+    "kind": "h",
+    "before": "Charm Predator (Su)",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 583,
+    "kind": "p",
+    "before": "Gain charm person as an SLA, usable 3 + Cha/day.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 584,
+    "kind": "h",
+    "before": "Suggestion (Sp)",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 585,
+    "kind": "p",
+    "before": "Gain suggestion 1/day per 5 HD.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 586,
+    "kind": "h",
+    "before": "Energy Fangs (Su)",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 587,
+    "kind": "p",
+    "before": "Your claws deal +1d6 fire, cold, or electricity (chosen daily).",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 588,
+    "kind": "h",
+    "before": "Fiend’s Resilience (Su)",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 589,
+    "kind": "p",
+    "before": "Gain DR 2/good or silver; improves by 2 at 8th, 14th, 20th.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 590,
+    "kind": "h",
+    "before": "Spell Resistance (Su)",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 591,
+    "kind": "p",
+    "before": "Gain SR equal to 10 + HD; can suppress as a free action.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 592,
+    "kind": "h",
+    "before": "Mind Shield (Su)",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 593,
+    "kind": "p",
+    "before": "+2 vs. mind-affecting; at 10th level, immune to detect thoughts.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 594,
+    "kind": "h",
+    "before": "Tiger’s Roar (Su)",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 595,
+    "kind": "p",
+    "before": "Once/day per 5 HD, roar in a 30-ft cone; foes save or be shaken 1d4 rounds.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 596,
+    "kind": "h",
+    "before": "Master of Masks (Su)",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 597,
+    "kind": "p",
+    "before": "May emulate any voice and mannerisms perfectly. Bluff checks gain +4.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 598,
+    "kind": "h",
+    "before": "Deceptive Step (Ex)",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 599,
+    "kind": "p",
+    "before": "Whenever you feint in combat, gain +2 AC until your next turn.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 600,
+    "kind": "h",
+    "before": "Spell-Thief’s Touch (Su)",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 601,
+    "kind": "p",
+    "before": "Once/day per 5 HD, when striking with a claw, you may dispel one active effect (dispel magic, CL = HD).",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 602,
+    "kind": "h",
+    "before": "Twilight Hunter (Ex)",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 603,
+    "kind": "p",
+    "before": "Gain low-light vision and darkvision 60 ft; if you already have darkvision, extend it by 30 ft.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 604,
+    "kind": "h",
+    "before": "Ninefold Guile (Su)",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 605,
+    "kind": "p",
+    "before": "Once/day, reroll a failed save vs. divination, illusion, or enchantment. Must take the second result.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 606,
+    "kind": "h",
+    "before": "Mummy Lord",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 607,
+    "kind": "p",
+    "before": "Inspired by Menace from Queen's Blade with Astarte elements. The Scarf is her core weapon.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 608,
+    "kind": "p",
+    "before": "Scarf (Ex): Magical animated scarf as core weapon. Reach weapon dealing 1d6 + Cha mod bludgeoning damage with 10-ft reach. Enhancement bonus equal to half class level (min +1, max +5). Counts as magic for DR.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 609,
+    "kind": "p",
+    "before": "Master's Mandate (Ex): Gains the Rajah's Royal Mandate class feature using class level as Rajah level. Issues mandates to allies within 30 ft as a swift action.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 610,
+    "kind": "p",
+    "before": "Scarf Grapple (Ex): May grapple targets within 10 ft without provoking AoO. Uses Cha modifier in place of Str for all scarf grapple checks.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 611,
+    "kind": "p",
+    "before": "Scarf Blade (Su): As a swift action, hardens scarf into a razor edge. Until start of next turn, scarf deals slashing damage and gains +2 attack rolls. At 10th level: +4.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 612,
+    "kind": "p",
+    "before": "Scarf Slam (Ex): As a standard action, slams a target within 10 ft for 2d6 + Cha mod bludgeoning damage. Fort save or knocked prone.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 613,
+    "kind": "p",
+    "before": "Imbue Scarf (Su): As a swift action, channels dark energy into scarf. Until start of next turn, scarf deals +1d6 negative energy and struck creatures make Fort save or be sickened 1 round.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 614,
+    "kind": "p",
+    "before": "Courtly Secrets (Ex): As Kitsune brand talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 615,
+    "kind": "p",
+    "before": "Ghost Flame (Su): As a standard action, launches pale cursed fire bolt within 60 ft. Ranged touch attack dealing 1d6 fire damage per two class levels (max 10d6). Bypasses fire resistance and immunity.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 616,
+    "kind": "p",
+    "before": "Magi-Change (Su): Standard weapon transformation form.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 617,
+    "kind": "p",
+    "before": "Magi-Change Armor (Su): Standard armor transformation form.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 618,
+    "kind": "p",
+    "before": "Slotted Magi-Change (Su): As companion talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 619,
+    "kind": "p",
+    "before": "Eyecandy (Ex): As companion talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 620,
+    "kind": "p",
+    "before": "Initiate Magic (Sp): As companion talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 621,
+    "kind": "p",
+    "before": "Channel Devotion (Su): As companion talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 622,
+    "kind": "p",
+    "before": "Channel Energy (Su): As companion Channel Pool talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 623,
+    "kind": "p",
+    "before": "Sisterhood of Master (Ex): As companion talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 624,
+    "kind": "p",
+    "before": "Crest (Ex): As companion talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 625,
+    "kind": "p",
+    "before": "Dark Lieutenant (Su): As Banshee brand talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 626,
+    "kind": "h",
+    "before": "Yuki-onna",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 627,
+    "kind": "p",
+    "before": "Classic Yuki-onna snow woman yokai. Talent list to be expanded in future revision.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 628,
+    "kind": "p",
+    "before": "Mage of Ice and Rime (Su): Gains the Cold sphere as a bonus sphere. Uses class level as caster level for Cold sphere abilities. All cold damage ignores cold resistance. She gains immunity to cold.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 629,
+    "kind": "p",
+    "before": "Magi-Change (Su): Standard weapon transformation form.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 630,
+    "kind": "p",
+    "before": "Magi-Change Armor (Su): Standard armor transformation form.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 631,
+    "kind": "p",
+    "before": "Slotted Magi-Change (Su): As companion talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 632,
+    "kind": "p",
+    "before": "Eyecandy (Ex): As companion talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 633,
+    "kind": "p",
+    "before": "Sisterhood of Master (Ex): As companion talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 634,
+    "kind": "p",
+    "before": "Initiate Magic (Sp): As companion talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 635,
+    "kind": "p",
+    "before": "Crest (Ex): As companion talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 636,
+    "kind": "h",
+    "before": "Houri",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 637,
+    "kind": "p",
+    "before": "Celestial beauty from mythology.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 638,
+    "kind": "p",
+    "before": "Blinding Beauty (Su): Any creature within 30 ft looking directly at her makes Fort save (DC 10 + half level + Cha) or be blinded 1 round. Averting gaze: 20% miss chance.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 639,
+    "kind": "p",
+    "before": "Unearthly Grace (Su): Adds Charisma modifier as a bonus to AC and all saving throws in addition to other modifiers.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 640,
+    "kind": "p",
+    "before": "Inspiration (Su): As a standard action, all allies within 30 ft gain +2 morale bonus on attack rolls, saves, and skill checks for Cha modifier rounds.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 641,
+    "kind": "p",
+    "before": "Stunning Glance (Su): As a standard action, one target within 30 ft makes Will save or be stunned 1 round.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 642,
+    "kind": "p",
+    "before": "Wild Empathy (Ex): Gains the Druid's Wild Empathy using class level as Druid level and Cha modifier in place of Wisdom.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 643,
+    "kind": "p",
+    "before": "Eyecandy (Ex): As companion talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 644,
+    "kind": "p",
+    "before": "Magi-Change (Su): Standard weapon transformation form.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 645,
+    "kind": "p",
+    "before": "Magi-Change Armor (Su): Standard armor transformation form.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 646,
+    "kind": "p",
+    "before": "Slotted Magi-Change (Su): As companion talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 647,
+    "kind": "p",
+    "before": "Initiate Magic (Sp): As companion talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 648,
+    "kind": "p",
+    "before": "Sisterhood of Master (Ex): As companion talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 649,
+    "kind": "p",
+    "before": "Crest (Ex): As companion talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 650,
+    "kind": "h",
+    "before": "Tressym",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 651,
+    "kind": "p",
+    "before": "Winged cat from D&D. Beast Monarch brand.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 652,
+    "kind": "p",
+    "before": "Eyecandy (Ex): As companion talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 653,
+    "kind": "p",
+    "before": "Initiate Magic (Sp): As companion talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 654,
+    "kind": "p",
+    "before": "Magi-Change (Su): Standard weapon transformation form.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 655,
+    "kind": "p",
+    "before": "Magi-Change Armor (Su): Standard armor transformation form.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 656,
+    "kind": "p",
+    "before": "Slotted Magi-Change (Su): As companion talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 657,
+    "kind": "p",
+    "before": "Fast (Ex): +10 ft speed. May be taken multiple times.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 658,
+    "kind": "p",
+    "before": "Lightning (Ex): Extra attack on a charge. May be taken twice.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 659,
+    "kind": "p",
+    "before": "Lingering (Su): Brand effects persist 1 additional round.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 660,
+    "kind": "p",
+    "before": "Greater (Ex): One brand ability functions as if 2 levels higher.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 661,
+    "kind": "p",
+    "before": "Akashic Understanding (Su): As Infernal Art of same name.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 662,
+    "kind": "p",
+    "before": "Enkindled Essence (Su): As Mermaid brand talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 663,
+    "kind": "p",
+    "before": "Essence Nexus (Su): As Energy Nexus Infernal Art.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 664,
+    "kind": "p",
+    "before": "Awareness (Ex): As Succubus brand talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 665,
+    "kind": "p",
+    "before": "Master's Eyes (Su): While this brand is not active, the Night Monarch may see through her Tressym companion's eyes at any distance as a swift action. May switch between own vision and companion's vision freely.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 666,
+    "kind": "p",
+    "before": "Purring Feat (Ex): Gains the Purring feat as a bonus feat.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 667,
+    "kind": "p",
+    "before": "Initiate Magic (Sp): As companion talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 668,
+    "kind": "p",
+    "before": "Cultivated Power (Ex): As companion talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 669,
+    "kind": "p",
+    "before": "Familiar Benefit (Ex): Treats Tressym companion as a familiar for all familiar- related feats, abilities, and bonuses.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 670,
+    "kind": "h",
+    "before": "Manticore",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 671,
+    "kind": "p",
+    "before": "Classic manticore monster. Beast Monarch brand.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 672,
+    "kind": "p",
+    "before": "Master's Mount (Ex): May ride Manticore companion into battle. While mounted: +2 attack rolls, mount gains +10 land speed and +2 attack rolls, ranged attacks ignore first range increment penalty.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 673,
+    "kind": "p",
+    "before": "Spike Barrage (Su): 30-ft cone as a standard action dealing 1d6 piercing per two class levels (max 10d6). Reflex half.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 674,
+    "kind": "p",
+    "before": "Poison Use (Ex): Never risks poisoning self when applying poison. +4 Craft (poison). May apply poison as a swift action.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 675,
+    "kind": "p",
+    "before": "Magi-Change (Su): Standard weapon transformation form.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 676,
+    "kind": "p",
+    "before": "Magi-Change Armor (Su): Standard armor transformation form.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 677,
+    "kind": "p",
+    "before": "Slotted Magi-Change (Su): As companion talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 678,
+    "kind": "p",
+    "before": "Poison Spike (Su): Ranged touch attack within 60 ft. Deals 1d8 piercing plus poison (Fort save or 1d4 Con damage, repeating 6 rounds).",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 679,
+    "kind": "p",
+    "before": "Awareness (Ex): As Succubus brand talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 680,
+    "kind": "p",
+    "before": "Shockwave (Su): Slams ground as a standard action, 20-ft radius. Reflex save or knocked prone and take 2d6 bludgeoning damage.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 681,
+    "kind": "p",
+    "before": "Master's Eyes (Su): As Tressym brand talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 682,
+    "kind": "h",
+    "before": "Gryphon",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 683,
+    "kind": "p",
+    "before": "Classic gryphon. Beast Monarch brand. Demon Scent inspired by Dragon Age: The Veil Guard's baby gryphon being effective against blight.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 684,
+    "kind": "p",
+    "before": "Flyby (Ex): Gains fly speed equal to twice base land speed with good maneuverability. May make a full attack at any point during a fly move action without ending movement.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 685,
+    "kind": "p",
+    "before": "Magi-Change (Su): Standard weapon transformation form.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 686,
+    "kind": "p",
+    "before": "Magi-Change Armor (Su): Standard armor transformation form.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 687,
+    "kind": "p",
+    "before": "Slotted Magi-Change (Su): As companion talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 688,
+    "kind": "p",
+    "before": "Demon Scent (Su): Automatically detects corrupted, blighted, or fiendishly tainted creatures within 60 ft. Against such creatures: +2 attack and damage rolls, bypass their DR, and +4 on saves against their abilities.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 689,
+    "kind": "p",
+    "before": "Mount (Ex): May ride Gryphon companion into battle. While mounted: +2 attack rolls, mount gains +10 land speed, all ranged attacks ignore first range increment penalty.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 690,
+    "kind": "p",
+    "before": "Shockwave (Su): As Manticore brand talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 691,
+    "kind": "p",
+    "before": "Master's Eyes (Su): As Tressym brand talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 692,
+    "kind": "p",
+    "before": "Razor Quill (Ex): As a swift action, launches a razor quill within 60 ft. 1d8 piercing damage. Target bleeds 1d4/round until DC 15 Heal check or magical healing.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 693,
+    "kind": "p",
+    "before": "Quill Barrage (Su): 30-ft cone as a standard action dealing 2d6 piercing per two class levels (max 10d6). Reflex half. Failed save: bleed 1d4/round.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 694,
+    "kind": "h",
+    "before": "Harlequin",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 695,
+    "kind": "p",
+    "before": "Inspired by Harley Quinn (DC) and the Castlevania Harlequin enemy.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 696,
+    "kind": "p",
+    "before": "Eyecandy (Ex): As companion talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 697,
+    "kind": "p",
+    "before": "Initiate Magic (Sp): As companion talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 698,
+    "kind": "p",
+    "before": "Magi-Change (Su): Standard weapon transformation form.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 699,
+    "kind": "p",
+    "before": "Magi-Change Armor (Su): Standard armor transformation form.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 700,
+    "kind": "p",
+    "before": "Fast Magi-Change (Su): As companion talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 701,
+    "kind": "p",
+    "before": "Lightning Magi-Change (Su): As companion talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 702,
+    "kind": "p",
+    "before": "Slotted Magi-Change (Su): As companion talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 703,
+    "kind": "p",
+    "before": "Sisterhood of Master (Ex): As companion talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 704,
+    "kind": "p",
+    "before": "Companion of Lonely (Ex): As companion talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 705,
+    "kind": "p",
+    "before": "Death Dealer (Su): Flings a razor playing card within 60 ft as a standard action. Ranged touch attack dealing 1d8 slashing per two class levels (max 10d8). On a crit, card explodes dealing +2d6 fire in a 5-ft radius.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 706,
+    "kind": "p",
+    "before": "Magic Deck (Su): As a swift action, draws a random card from her magical deck, gaining a random beneficial effect (d6): 1: +2 attack; 2: +2 AC; 3: Fast healing 2; 4: +2 saves; 5: +10 movement; 6: Extra standard action. Effect lasts Cha modifier rounds.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 707,
+    "kind": "p",
+    "before": "Throw Anything (Ex): Gains the Throw Anything feat as a bonus feat. Adds Cha modifier instead of Str to damage with thrown and improvised thrown weapons.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 708,
+    "kind": "p",
+    "before": "Cultivated Power (Ex): As companion talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 709,
+    "kind": "h",
+    "before": "Tengu",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 710,
+    "kind": "p",
+    "before": "Inspired by Nyotengu from Dead or Alive. Talent list to be expanded in future revision.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 711,
+    "kind": "p",
+    "before": "Eyecandy (Ex): As companion talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 712,
+    "kind": "p",
+    "before": "Initiate Magic (Sp): As companion talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 713,
+    "kind": "p",
+    "before": "Magi-Change (Su): Standard weapon transformation form.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 714,
+    "kind": "p",
+    "before": "Magi-Change Armor (Su): Standard armor transformation form.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 715,
+    "kind": "p",
+    "before": "Slotted Magi-Change (Su): As companion talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 716,
+    "kind": "p",
+    "before": "Sisterhood of Master (Ex): As companion talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 717,
+    "kind": "p",
+    "before": "Companion of Lonely (Ex): As companion talent.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 718,
+    "kind": "p",
+    "before": "Tengu's Expertise (Ex): By spending 1 hour training with any weapon she is not proficient with, gains full proficiency with that weapon permanently. May be used any number of times.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 719,
+    "kind": "h",
+    "before": "Unison Device",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 720,
+    "kind": "p",
+    "before": "Inspired by Magical Girl Lyrical Nanoha — intelligent magical device companion (Raising Heart, Reinforce, etc.). Uses its own unique progression table.",
+    "disposition": "placeholder replaced with complete recovered Unison donor source and unfinished-adapter ledger"
+  },
+  {
+    "before_event": 721,
+    "kind": "p",
+    "before": "Full Unison Device rules, progression table, and all 28 Unison talents as written in original document. Key Features: Standby Mode (passive assistance), Unison Mode (merging for Str/Dex boost and barrier), Barrier System (temp HP = level x2 + Cha mod), Unison Bounty (access to all Unison talents while merged).",
+    "disposition": "placeholder replaced with complete recovered Unison donor source and unfinished-adapter ledger"
+  },
+  {
+    "before_event": 722,
+    "kind": "p",
+    "before": "Notable Talents: Wolkenritter Covenant (four elite knight companions), Puppet Mode (device controls body if master incapacitated), Alternate Unison Target (merge with a Wolkenritter instead).",
+    "disposition": "placeholder replaced with complete recovered Unison donor source and unfinished-adapter ledger"
+  },
+  {
+    "before_event": 723,
+    "kind": "chapter",
+    "before": "Pending Items & Design Notes",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 724,
+    "kind": "h",
+    "before": "Incomplete / Placeholder",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 725,
+    "kind": "p",
+    "before": "• Oni Sphere Access — TBD • Jiangshi disciplines — TBD • Unison Device: Unison Boost, Ether Development, Armor (3rd level), Fast Unison — TBD • Yuki-onna talent list — to be expanded • Tengu talent list — to be expanded",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 726,
+    "kind": "h",
+    "before": "Cut Features",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 727,
+    "kind": "p",
+    "before": "• Crimson Rites — cut (work in progress mechanic) • Armament — cut • Armament Expertise — cut (replaced by Crimson Elixir) • Extra Armament — cut (replaced by Blood Surge) • Abysscraft — cut • Genie brand — cut (belongs to Sand Monarch)",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 728,
+    "kind": "chapter",
+    "before": "Integrated Revision",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 729,
+    "kind": "p",
+    "before": "Integrated Class and Bloodline Brand Revision",
+    "disposition": "integrated revision re-extracted with correct headings; outdated source notes updated"
+  },
+  {
+    "before_event": 730,
+    "kind": "h",
+    "before": "Revision Status",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 731,
+    "kind": "p",
+    "before": "This section is part of the revised master. It preserves the complete supplied class document and records the confirmed corrections governing Brand identity, subsystem ownership, and future mechanical completion.",
+    "disposition": "integrated revision re-extracted with correct headings; outdated source notes updated"
+  },
+  {
+    "before_event": 732,
+    "kind": "p",
+    "before": "Source limitation: the supplied Night Monarch PDF itself replaces the full Asura, Jaguar Sun, Rakshasa, and Unison Device talent text with references to an unavailable original document. Those missing rules are not invented here.",
+    "disposition": "integrated revision re-extracted with correct headings; outdated source notes updated"
+  },
+  {
+    "before_event": 733,
+    "kind": "h",
+    "before": "General Rules Corrections",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 734,
+    "kind": "h",
+    "before": "Reference anchors",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 735,
+    "kind": "p",
+    "before": "Named characters guide concept, silhouette, fantasy, or selected mechanics. They are anchors, not homage targets: their personalities, biographies, and complete movesets are not automatically imported.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 736,
+    "kind": "h",
+    "before": "Standard and Martial Brands",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 737,
+    "kind": "p",
+    "before": "Oni remains on the older standard Brand chassis. Jiangshi, Asura, Jaguar Sun, and Rakshasa use the later Martial Brand (Path of War) progression.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 738,
+    "kind": "h",
+    "before": "Oni Magic",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 739,
+    "kind": "p",
+    "before": "The Oni Brand does not automatically grant the Oni Sphere. A character must acquire Oni Magic through the general Brand rules to gain that sphere.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 740,
+    "kind": "h",
+    "before": "Controlled randomness",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 741,
+    "kind": "p",
+    "before": "Harlequin randomness is controlled chaos. It may create tactical volatility and comedy, but should not casually kill the Night Monarch or invalidate the character.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 742,
+    "kind": "h",
+    "before": "Integrated Brand Corrections",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 743,
+    "kind": "h",
+    "before": "Lamia",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 744,
+    "kind": "p",
+    "before": "Classic lamia mythology with Cassiopeia as a conceptual anchor only.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 745,
+    "kind": "h",
+    "before": "Felyn",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 746,
+    "kind": "p",
+    "before": "Disgaea Felyn and Felicia remain conceptual/mechanical anchors rather than personalities to reproduce.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 747,
+    "kind": "h",
+    "before": "Dragon",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 748,
+    "kind": "p",
+    "before": "Natsu Dragneel is the primary anchor, with supporting Shield Hero dragon influence. The primary energy is fixed; Second Breath adds a second element, echoing Natsu acquiring lightning. Dragon Shot and Drake Blow are mechanical donors from High School DxD.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 749,
+    "kind": "h",
+    "before": "Succubus",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 750,
+    "kind": "p",
+    "before": "A generic succubus, not a specific referenced character.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 751,
+    "kind": "h",
+    "before": "Angeloid",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 752,
+    "kind": "p",
+    "before": "A general mechanical angel and weapons platform. Ikaros anchors the concept only. Hsien-Ko is the controlling anchor. The Brand uses Martial progression; Unquiet Grave is a core favored discipline, with additional disciplines supporting oversized weapons, mobility, and chi techniques.",
+    "disposition": "integrated revision re-extracted with correct headings; outdated source notes updated"
+  },
+  {
+    "before_event": 753,
+    "kind": "h",
+    "before": "Kitsune",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 754,
+    "kind": "p",
+    "before": "Tama no Mai and Kiriko supply recognizable kitsune ideas and mechanics without either controlling the full identity.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 755,
+    "kind": "h",
+    "before": "Oni",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 756,
+    "kind": "p",
+    "before": "A brutal oni bruiser on the standard Brand chassis. Oni Magic separately opens the Oni Sphere; the Brand is not retroactively converted into a Path of War Brand.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 757,
+    "kind": "h",
+    "before": "Zinogre",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 758,
+    "kind": "p",
+    "before": "The loyal right-hand storm wolf; the Zinogre and Garurumon material anchors its storm-beast identity.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 759,
+    "kind": "h",
+    "before": "Mermaid",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 760,
+    "kind": "p",
+    "before": "A friendly, curious, musical aquatic fantasy closer to Ariel than a predatory siren.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 761,
+    "kind": "h",
+    "before": "Pixie",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 762,
+    "kind": "p",
+    "before": "Tinker Bell is the direct conceptual anchor, without requiring character recreation.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 763,
+    "kind": "h",
+    "before": "Gargoyle",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 764,
+    "kind": "p",
+    "before": "A general gothic gargoyle rather than a specific Castlevania character.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 765,
+    "kind": "h",
+    "before": "Jorogumo",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 766,
+    "kind": "p",
+    "before": "Elise anchors the humanoid/spider transformation and combat pattern only.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 767,
+    "kind": "h",
+    "before": "Specter",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 768,
+    "kind": "p",
+    "before": "Krom and Gray are blended anchors for pet-specter identity and magical utility.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 769,
+    "kind": "h",
+    "before": "Celebremancer",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 770,
+    "kind": "p",
+    "before": "A serious illithid-style brain-eater/psionic Brand. The name primarily serves trademark avoidance rather than imposing comedy.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 771,
+    "kind": "h",
+    "before": "Menreiki",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 772,
+    "kind": "p",
+    "before": "Hata no Kokoro remains the conceptual anchor.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 773,
+    "kind": "h",
+    "before": "Asura",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 774,
+    "kind": "p",
+    "before": "Anchored by Asura's Wrath: divine fury, relentless vengeance, resurrection, and refusal to remain dead. Undeath is supporting expression, and literal escalating multi-arm replication is not required.",
+    "disposition": "integrated revision re-extracted with correct headings; outdated source notes updated"
+  },
+  {
+    "before_event": 775,
+    "kind": "h",
+    "before": "Jaguar Sun",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 776,
+    "kind": "p",
+    "before": "An original Aztec-inspired jaguar/sun/blood-war construction, not a Fate-derived reference.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 777,
+    "kind": "h",
+    "before": "Rakshasa",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 778,
+    "kind": "p",
+    "before": "An infernal shapeshifting predator: deceptive humanoid guise and illusion establish the hunt, tiger-claw violence ends it. Backward hands are folklore texture rather than a mechanical pillar.",
+    "disposition": "integrated revision re-extracted with correct headings; outdated source notes updated"
+  },
+  {
+    "before_event": 779,
+    "kind": "h",
+    "before": "Yuki-onna",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 780,
+    "kind": "p",
+    "before": "Primarily an ice combatant who flexes between ranged ice casting and close-range freezing.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 781,
+    "kind": "h",
+    "before": "Houri",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 782,
+    "kind": "p",
+    "before": "A secular fantasy species inspired by celestial beauty, with no real-world religious or cosmological claims.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 783,
+    "kind": "h",
+    "before": "Tressym",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 784,
+    "kind": "p",
+    "before": "The iconic permanently small winged kitty and right-hand cat. It remains a familiar/scout, not a mount progression.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 785,
+    "kind": "h",
+    "before": "Manticore",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 786,
+    "kind": "p",
+    "before": "A classic quadrupedal manticore by default. A bipedal interpretation is a GM choice.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 787,
+    "kind": "h",
+    "before": "Gryphon",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 788,
+    "kind": "p",
+    "before": "A classic gryphon with the Dragon Age baby-gryphon concept anchoring its effectiveness against corruption and blight.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 789,
+    "kind": "h",
+    "before": "Harlequin",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 790,
+    "kind": "p",
+    "before": "Harley Quinn and the Castlevania Harlequin are intentionally fused rather than divided into separate donor roles. Uses controlled chaos.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 791,
+    "kind": "h",
+    "before": "Tengu",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 792,
+    "kind": "p",
+    "before": "A general humanoid tengu anchored by Nyotengu: broadly weapon-flexible, with the war fan preferred rather than mandatory.",
+    "disposition": "integrated revision re-extracted with correct headings; outdated source notes updated"
+  },
+  {
+    "before_event": 793,
+    "kind": "h",
+    "before": "Unison Device",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 794,
+    "kind": "p",
+    "before": "Reinforce, Eins, Zwei, and Agito are general anchors for one customizable system. Raising Heart is not an anchor, and the devices are not separate mandatory build paths.",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 795,
+    "kind": "h",
+    "before": "Outstanding Mechanical Work",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 796,
+    "kind": "p",
+    "before": "These are design tasks rather than unanswered identity questions: choose Jiangshi's remaining favored disciplines; expand Yuki-onna and Tengu talent lists; complete Oni Sphere integration through Oni Magic; and recover or reconstruct the omitted Unison Device and Martial Brand talent text from the original source when available.",
+    "disposition": "integrated revision re-extracted with correct headings; outdated source notes updated"
+  },
+  {
+    "before_event": 797,
+    "kind": "chapter",
+    "before": "Current Edition Notes",
+    "disposition": "retained verbatim"
+  },
+  {
+    "before_event": 798,
+    "kind": "h",
+    "before": "Source authority",
+    "disposition": "integrated revision re-extracted with correct headings; outdated source notes updated"
+  },
+  {
+    "before_event": 799,
+    "kind": "p",
+    "before": "This edition uses Night_Monarch_Revised_Master(1).pdf as its main source. Its integrated revision governs brand identity and ownership. Earlier source text is used only to restore the omitted Asura, Jaguar Sun and Rakshasa talent sections. The full Unison Device rules were not found and have not been invented.",
+    "disposition": "integrated revision re-extracted with correct headings; outdated source notes updated"
+  },
+  {
+    "before_event": 800,
+    "kind": "h",
+    "before": "Session corrections",
+    "disposition": "integrated revision re-extracted with correct headings; outdated source notes updated"
+  },
+  {
+    "before_event": 801,
+    "kind": "p",
+    "before": "The author removed the blood-point economy. Blood Pool, Dark Claim, Rejuvenation, Sanguine Invigoration, Conversion, Crimson Elixir, Blood Surge, Dark Harvest and Harlequin Gambler are removed because their rules depend on it. Infernal Stride retains its movement bonus; Gargoyle Perfect Defense retains its normal cooldown; Extended Palate retains its construct and outsider interactions. Their blood-point clauses are removed.",
+    "disposition": "integrated revision re-extracted with correct headings; outdated source notes updated"
+  },
+  {
+    "before_event": 802,
+    "kind": "h",
+    "before": "Resolved base features",
+    "disposition": "integrated revision re-extracted with correct headings; outdated source notes updated"
+  },
+  {
+    "before_event": 803,
+    "kind": "p",
+    "before": "The revised master establishes d8 Hit Dice, Mid-Caster progression, Master of Night and Dark Lore. Armament, Armament Expertise, Extra Armament, Abysscraft and Crimson Rites remain cut. No removed feature has been reinstated from the older draft.",
+    "disposition": "integrated revision re-extracted with correct headings; outdated source notes updated"
+  },
+  {
+    "before_event": 804,
+    "kind": "h",
+    "before": "Outstanding work",
+    "disposition": "integrated revision re-extracted with correct headings; outdated source notes updated"
+  },
+  {
+    "before_event": 805,
+    "kind": "p",
+    "before": "The integrated revision identifies the remaining work: Jiangshi favored disciplines, expanded Yuki-onna and Tengu talents, Oni Magic integration, and full Unison Device rules. Restored older talent text may contain incomplete entries. Blended Training prose still differs from its progression table; this edition does not silently decide that conflict.",
+    "disposition": "integrated revision re-extracted with correct headings; outdated source notes updated"
+  }
+]

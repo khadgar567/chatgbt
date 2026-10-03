@@ -1,0 +1,19 @@
+{
+  "pages": 40,
+  "bookmarks": 44,
+  "rendered_pages": 40,
+  "output_tables": 8,
+  "source_tables_audited": 10,
+  "martial_rule_bodies_verified": {
+    "Asura": 25,
+    "Jaguar Sun": 25,
+    "Rakshasa": 25
+  },
+  "before_body_events_audited": 806,
+  "rendered_content_check": "passed",
+  "text_bounds_check": "passed",
+  "bookmark_page_check": "passed",
+  "contents_link_check": "passed",
+  "document_archive_check": "passed",
+  "remaining_limitations": "Unfinished Unison adapter, Crimson Elixir CL/template details and existing design tasks remain explicit."
+}
